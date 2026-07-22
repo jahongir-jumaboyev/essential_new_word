@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Essential 2 - Unit 1",
+    "questions": [
+      {
+        "type": "mcq",
+        "prompt": "Choose the correct meaning of the word 'essential'",
+        "promptUz": "'essential' so'zining to'g'ri ma'nosini tanlang",
+        "options": ["Kerakli", "Qiziqarli", "Muqobil", "Oddiy"],
+        "answer": 1
+      },
+      {
+        "type": "open",
+        "direction": "eng-to-uz",
+        "prompt": "How would you translate 'to improve' into Uzbek?",
+        "acceptedAnswers": ["yaxshilash", "takomillashtirish"]
+      },
+      {
+        "type": "mcq",
+        "prompt": "Pick the synonym of 'important'",
+        "options": ["minor", "significant", "trivial", "insignificant"],
+        "answer": 2
+      }
+    ]
+  },
+  {
+    "title": "Essential 2 - Unit 2",
+    "questions": [
+      {
+        "type": "open",
+        "direction": "uz-to-eng",
+        "promptUz": "Boshlash",
+        "acceptedAnswers": ["start", "begin"]
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which one is a correct translation of 'qiyin'?",
+        "options": ["easy", "hard", "quick", "cheap"],
+        "answer": 2
+      }
+    ]
+  }
+]
