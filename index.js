@@ -96,7 +96,7 @@ bot.on('text', async (ctx) => {
 
   if (correct) {
     s.score = (s.score || 0) + 1;
-    await ctx.reply('To'g'ri ✅');
+    await ctx.reply("To'g'ri ✅");
   } else {
     const correctText = q.type === 'mcq' ? `Correct answer: ${q.answer}. ${q.options[q.answer - 1]}` : `Expected: ${ (q.acceptedAnswers || []).join(' / ') }`;
     await ctx.reply(`Noto'g'ri ❌\n${correctText}`);
