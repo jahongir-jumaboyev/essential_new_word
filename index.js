@@ -1,7 +1,7 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const { Telegraf, session } = require('telegraf');
+const { Telegraf, session, Markup } = require('telegraf');
 
 const BOT_TOKEN = process.env.BOT_TOKEN;
 const PORT = process.env.PORT || 3000;
@@ -9,112 +9,164 @@ const WEBHOOK_URL = process.env.WEBHOOK_URL; // e.g. https://your-service.onrend
 
 if (!BOT_TOKEN) throw new Error('BOT_TOKEN is required. Set it in Render env or .env locally.');
 
-const unitsPath = path.join(__dirname, 'units.json');
-if (!fs.existsSync(unitsPath)) throw new Error('units.json not found.');
-const units = JSON.parse(fs.readFileSync(unitsPath, 'utf8'));
+const wordsPath = path.join(__dirname, 'words2.json');
+if (!fs.existsSync(wordsPath)) throw new Error('words2.json not found.');
+const words = JSON.parse(fs.readFileSync(wordsPath, 'utf8'));
+
+// build sorted unique units
+const unitsSet = Array.from(new Set(words.map(w => Number(w.unit)))).sort((a,b) => a - b);
 
 const bot = new Telegraf(BOT_TOKEN);
 bot.use(session());
 
-// Helper to send current question
-async function sendQuestion(ctx) {
-  const s = ctx.session;
-  const unit = units[s.unitIndex];
-  const q = unit.questions[s.qIndex];
-
-  if (!q) return ctx.reply('Savollar tugadi yoki xatolik yuz berdi.');
-
-  if (q.type === 'mcq') {
-    const optionsText = q.options.map((o, i) => `${i + 1}. ${o}`).join('\n');
-    await ctx.reply(`${unit.title} — Question ${s.qIndex + 1}/${unit.questions.length}:\n\n${q.prompt}\n\n${q.promptUz || ''}\n\n${optionsText}\n\nSend the answer number (e.g. 2).`);
-  } else if (q.type === 'open') {
-    if (q.direction === 'eng-to-uz') {
-      await ctx.reply(`${unit.title} — Question ${s.qIndex + 1}/${unit.questions.length}:\n\nEnglish: ${q.prompt}\n\nPlease write the Uzbek translation.`);
-    } else {
-      await ctx.reply(`${unit.title} — Question ${s.qIndex + 1}/${unit.questions.length}:\n\nO'zbekcha: ${q.promptUz || q.prompt}\n\nIltimos, inglizchasini yozing.`);
-    }
-  } else {
-    await ctx.reply('Unknown question type.');
+function makeUnitsKeyboard() {
+  const buttons = unitsSet.map(u => Markup.button.callback(`${u}`, `unit:${u}`));
+  const rows = [];
+  for (let i = 0; i < buttons.length; i += 2) {
+    if (i + 1 < buttons.length) rows.push([buttons[i], buttons[i+1]]);
+    else rows.push([buttons[i]]);
   }
+  return Markup.inlineKeyboard(rows);
 }
 
-bot.start((ctx) => {
-  ctx.session = {};
-  return ctx.reply("Salom! Men unit bo'yicha ingliz-uzbek test botiman. /units bilan bo'limlarni ko'rishingiz mumkin.");
-});
+function getWordsForUnit(unit) {
+  return words.filter(w => Number(w.unit) === Number(unit));
+}
 
-bot.command('units', (ctx) => {
-  const list = units.map((u, i) => `${i + 1}. ${u.title}`).join('\n');
-  return ctx.reply(`Available units:\n\n${list}\n\nStart with: /unit <number> (e.g. /unit 1)`);
-});
+function normalizeText(s) {
+  return (s || '')
+    .toLowerCase()
+    .replace(/["'`.,!?;:\-]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
-bot.command('unit', (ctx) => {
-  const text = ctx.message.text.trim();
-  const parts = text.split(/\s+/);
-  const num = Number(parts[1]);
-  if (!num || num < 1 || num > units.length) {
-    return ctx.reply(`Please provide a valid unit number. Example: /unit 1\nAvailable: 1..${units.length}`);
+function simpleDistance(a, b) {
+  // Levenshtein distance
+  if (a === b) return 0;
+  const la = a.length, lb = b.length;
+  const dp = Array.from({length: la+1}, () => new Array(lb+1).fill(0));
+  for (let i=0;i<=la;i++) dp[i][0] = i;
+  for (let j=0;j<=lb;j++) dp[0][j] = j;
+  for (let i=1;i<=la;i++){
+    for (let j=1;j<=lb;j++){
+      const cost = a[i-1] === b[j-1] ? 0 : 1;
+      dp[i][j] = Math.min(dp[i-1][j]+1, dp[i][j-1]+1, dp[i-1][j-1]+cost);
+    }
   }
+  return dp[la][lb];
+}
 
-  ctx.session.unitIndex = num - 1;
-  ctx.session.qIndex = 0;
-  ctx.session.score = 0;
-  ctx.session.mode = 'quiz';
-  ctx.reply(`Unit ${num} started: ${units[num - 1].title}\nLet's begin...`);
-  return sendQuestion(ctx);
-});
+function isAcceptableAnswer(userAnswer, accepted) {
+  const u = normalizeText(userAnswer).replace(/\s+/g,''); // remove spaces for lenient compare
+  for (let acc of accepted) {
+    const a = normalizeText(acc).replace(/\s+/g,'');
+    if (!a) continue;
+    if (u === a) return true;
+    const dist = simpleDistance(u, a);
+    const maxAllowed = Math.max(1, Math.floor(a.length * 0.2));
+    if (dist <= maxAllowed) return true;
+  }
+  return false;
+}
 
-bot.command('stop', (ctx) => {
-  if (ctx.session && ctx.session.mode === 'quiz') {
+async function askRandomWord(ctx) {
+  const unit = ctx.session.unit;
+  const list = getWordsForUnit(unit);
+  if (!list || list.length === 0) {
+    await ctx.reply('Bu unit uchun so\'zlar topilmadi.');
     ctx.session = {};
-    return ctx.reply("Quiz stopped. Use /units to choose again or /start to restart.");
-  } else {
-    return ctx.reply('No quiz is running right now.');
+    return;
   }
+  // initialize used set
+  if (!ctx.session.used) ctx.session.used = [];
+  if (ctx.session.used.length >= list.length) {
+    await ctx.reply(`Unit tugadi. Sizning natija: ${ctx.session.score || 0}/${list.length}`);
+    ctx.session = {};
+    return;
+  }
+
+  // pick random unused index
+  let idx;
+  do {
+    idx = Math.floor(Math.random() * list.length);
+  } while (ctx.session.used.includes(idx));
+  ctx.session.used.push(idx);
+  ctx.session.currentIndex = idx;
+
+  const item = list[idx];
+  // store accepted translations (split by comma)
+  const accepted = item.translation.split(',').map(s => s.trim()).filter(Boolean);
+  ctx.session.accepted = accepted;
+
+  // send question
+  await ctx.replyWithMarkdown(`*${item.word}*\n\nIltimos ushbu so'zni O'zbekchaga tarjima qiling:`,
+    Markup.inlineKeyboard([[Markup.button.callback('🔙 Units', 'menu')]]));
+}
+
+bot.start(async (ctx) => {
+  ctx.session = {};
+  await ctx.reply('Salom! Quyidagi unitlardan birini tanlang:');
+  return ctx.reply('Units:', makeUnitsKeyboard());
+});
+
+bot.command('units', async (ctx) => {
+  ctx.session = {};
+  await ctx.reply('Units:', makeUnitsKeyboard());
+});
+
+bot.action(/unit:(\d+)/, async (ctx) => {
+  await ctx.answerCbQuery();
+  const unit = Number(ctx.match[1]);
+  ctx.session = { mode: 'quiz', unit, score: 0, used: [] };
+  // send first random word
+  await askRandomWord(ctx);
+});
+
+bot.action('menu', async (ctx) => {
+  await ctx.answerCbQuery();
+  ctx.session = {};
+  // edit message if possible
+  try {
+    if (ctx.editMessageText) {
+      await ctx.editMessageText('Units:', makeUnitsKeyboard().reply_markup);
+      return;
+    }
+  } catch (e) {
+    // ignore
+  }
+  return ctx.reply('Units:', makeUnitsKeyboard());
 });
 
 bot.on('text', async (ctx) => {
   const s = ctx.session || {};
-  if (s.mode !== 'quiz') return ctx.reply("I don't understand. Use /units to see units or /unit <n> to start a quiz.");
-
-  const unit = units[s.unitIndex];
-  const q = unit.questions[s.qIndex];
-  const answer = (ctx.message.text || '').trim();
-
-  let correct = false;
-  if (q.type === 'mcq') {
-    const n = Number(answer);
-    if (!Number.isFinite(n)) {
-      return ctx.reply('Please send the option number, e.g. 2');
-    }
-    if (n === q.answer) correct = true; // q.answer is 1-based index
-  } else if (q.type === 'open') {
-    const norm = answer.toLowerCase();
-    const accepted = (q.acceptedAnswers || []).map(a => a.toLowerCase());
-    if (accepted.includes(norm)) correct = true;
+  if (s.mode !== 'quiz' || typeof s.currentIndex === 'undefined') {
+    return ctx.reply("Iltimos pastdagi unit tugmalaridan birini bosing yoki /units buyrug'idan foydalaning.");
   }
 
-  if (correct) {
-    s.score = (s.score || 0) + 1;
+  const userAnswer = (ctx.message.text || '').trim();
+  // check answer
+  const accepted = s.accepted || [];
+  const ok = isAcceptableAnswer(userAnswer, accepted);
+  if (ok) {
+    ctx.session.score = (ctx.session.score || 0) + 1;
     await ctx.reply("To'g'ri ✅");
   } else {
-    const correctText = q.type === 'mcq' ? `Correct answer: ${q.answer}. ${q.options[q.answer - 1]}` : `Expected: ${ (q.acceptedAnswers || []).join(' / ') }`;
-    await ctx.reply(`Noto'g'ri ❌\n${correctText}`);
+    await ctx.reply(`Noto'g'ri ❌\nTo'g'ri javob: ${accepted[0] || '—'}`);
   }
 
-  s.qIndex++;
-  if (s.qIndex >= unit.questions.length) {
-    await ctx.reply(`Unit finished. Your score: ${s.score}/${unit.questions.length}`);
-    ctx.session = {};
-  } else {
-    await sendQuestion(ctx);
-  }
+  // ask next or finish
+  setTimeout(() => askRandomWord(ctx).catch(err => console.error(err)), 300);
+});
+
+// fallback
+bot.on('message', async (ctx) => {
+  // other message types
 });
 
 const app = express();
 app.get('/', (req, res) => res.send('Bot service is running'));
 
-// webhook path
 const hookPath = `/webhook/${BOT_TOKEN}`;
 app.post(hookPath, express.json(), (req, res, next) => bot.webhookCallback(hookPath)(req, res, next));
 
