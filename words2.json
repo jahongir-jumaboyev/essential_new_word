@@ -1,0 +1,6606 @@
+[
+  {
+    "unit": 1,
+    "word": "anxious",
+    "translation": "xavotirlangan, tashvishli",
+    "options": [
+      "xavotirlangan",
+      "quvnoq",
+      "aqlli",
+      "sekin"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "awful",
+    "translation": "juda yomon, daxshatli",
+    "options": [
+      "juda yomon",
+      "ajoyib",
+      "chiroyli",
+      "tinch"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "consist",
+    "translation": "iborat bo'lmoq",
+    "options": [
+      "iborat bo'lmoq",
+      "yo'qotmoq",
+      "yaratmoq",
+      "yashamoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "desire",
+    "translation": "xohlamoq, istamoq",
+    "options": [
+      "xohlamoq",
+      "rad etmoq",
+      "unutmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "eager",
+    "translation": "intizor, berilib ketgan",
+    "options": [
+      "intizor",
+      "befarq",
+      "sekin",
+      "shoshilinch"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "household",
+    "translation": "ro'zg'or, xonadon",
+    "options": [
+      "xonadon",
+      "shahar",
+      "kuch",
+      "yo'l"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "intent",
+    "translation": "maqsad, niyat",
+    "options": [
+      "maqsad",
+      "xato",
+      "voqea",
+      "tushunda"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "landscape",
+    "translation": "manzara, peyzaj",
+    "options": [
+      "manzara",
+      "bino",
+      "osmon",
+      "dengiz"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "lift",
+    "translation": "ko'tarmoq",
+    "options": [
+      "ko'tarmoq",
+      "tushirmoq",
+      "singdirmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "load",
+    "translation": "yuk",
+    "options": [
+      "yuk",
+      "yengillik",
+      "tezlik",
+      "joy"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "lung",
+    "translation": "o'pka",
+    "options": [
+      "o'pka",
+      "yurak",
+      "jigar",
+      "buyrak"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "motion",
+    "translation": "harakat",
+    "options": [
+      "harakat",
+      "sukunat",
+      "uyqu",
+      "tinchlik"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "pace",
+    "translation": "sur'at, odim",
+    "options": [
+      "sur'at",
+      "og'irlik",
+      "rang",
+      "masofa"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "polite",
+    "translation": "xushmuomala, odobli",
+    "options": [
+      "xushmuomala",
+      "qo'pol",
+      "sho'x",
+      "kibrli"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "possess",
+    "translation": "ega bo'lmoq",
+    "options": [
+      "ega bo'lmoq",
+      "yo'qotmoq",
+      "sotmoq",
+      "bermoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "rapidly",
+    "translation": "tez, tezlik bilan",
+    "options": [
+      "tezlik bilan",
+      "sekin",
+      "sekin-asta",
+      "og'ir"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "remark",
+    "translation": "mulohaza bildirmoq",
+    "options": [
+      "mulohaza bildirmoq",
+      "jim turmoq",
+      "tinglamoq",
+      "o'qimoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "seek",
+    "translation": "qidirmoq, izlamoq",
+    "options": [
+      "qidirmoq",
+      "yashirmoq",
+      "tashlab ketmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "shine",
+    "translation": "porlamoq, nur sochmoq",
+    "options": [
+      "porlamoq",
+      "o'chmoq",
+      "qorong'ulashmoq",
+      "yashirinmoq"
+    ]
+  },
+  {
+    "unit": 1,
+    "word": "spill",
+    "translation": "to'kib yubormoq",
+    "options": [
+      "to'kib yubormoq",
+      "yig'ib olmoq",
+      "toza tutmoq",
+      "ichmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "bring",
+    "translation": "olib kelmoq",
+    "options": [
+      "olib kelmoq",
+      "olib ketmoq",
+      "tashlamoq",
+      "sotmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "castle",
+    "translation": "qasr, qal'a",
+    "options": [
+      "qasr",
+      "uycha",
+      "ko'prik",
+      "maydon"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "command",
+    "translation": "buyruq bermoq",
+    "options": [
+      "buyruq bermoq",
+      "iltimos qilmoq",
+      "tinglamoq",
+      "berkitmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "counsel",
+    "translation": "maslahat bermoq",
+    "options": [
+      "maslahat bermoq",
+      "buyurmoq",
+      "tanqid qilmoq",
+      "so'ramoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "ensure",
+    "translation": "ta'minlamoq, kafolatlamoq",
+    "options": [
+      "kafolatlamoq",
+      "xavfga qo'ymoq",
+      "inkor etmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "explosion",
+    "translation": "portlash",
+    "options": [
+      "portlash",
+      "sukunat",
+      "suv toshqini",
+      "shamol"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "jewelry",
+    "translation": "taqinchoqlar",
+    "options": [
+      "taqinchoqlar",
+      "kiyimlar",
+      "poyabzal",
+      "o'yinchoqlar"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "land",
+    "translation": "qo'nmoq",
+    "options": [
+      "qo meq",
+      "uchmoq",
+      "suzmoq",
+      "yugurmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "meteor",
+    "translation": "meteorit",
+    "options": [
+      "meteorit",
+      "sayyora",
+      "yulduz",
+      "bulut"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "monster",
+    "translation": "maxluq",
+    "options": [
+      "maxluq",
+      "farishta",
+      "odam",
+      "xasharot"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "northern",
+    "translation": "shimoliy",
+    "options": [
+      "shimoliy",
+      "janubiy",
+      "sharqiy",
+      "g'arbiy"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "remote",
+    "translation": "olis, chekka",
+    "options": [
+      "olis",
+      "yaqin",
+      "markaziy",
+      "gavjum"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "southern",
+    "translation": "janubiy",
+    "options": [
+      "janubiy",
+      "shimoliy",
+      "g'arbiy",
+      "sharqiy"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "statue",
+    "translation": "haykal",
+    "options": [
+      "haykal",
+      "rasm",
+      "bino",
+      "ustun"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "steam",
+    "translation": "bug'",
+    "options": [
+      "bug'",
+      "muz",
+      "suv",
+      "tutun"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "submit",
+    "translation": "bo'ysunmoq, topshirmoq",
+    "options": [
+      "topshirmoq",
+      "rad etmoq",
+      "urishmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "temple",
+    "translation": "ibodatxona",
+    "options": [
+      "ibodatxona",
+      "bozor",
+      "maktab",
+      "kasxona"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "upper",
+    "translation": "yuqori, ustki",
+    "options": [
+      "yuqori",
+      "pastki",
+      "ichki",
+      "orqa"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "weed",
+    "translation": "begona o't",
+    "options": [
+      "begona o't",
+      "daraxt",
+      "gullaydigan gul",
+      "meva"
+    ]
+  },
+  {
+    "unit": 2,
+    "word": "wing",
+    "translation": "qanot",
+    "options": [
+      "qanot",
+      "oyoq",
+      "bosh",
+      "dum"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "arrow",
+    "translation": "o'q, kamon o'qi",
+    "options": [
+      "kamon o'qi",
+      "qilich",
+      "qalqon",
+      "miltiq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "battle",
+    "translation": "jang, jangnoma",
+    "options": [
+      "jang",
+      "tinchlik",
+      "sulh",
+      "suhbat"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "bow",
+    "translation": "kamon",
+    "options": [
+      "kamon",
+      "nayza",
+      "bolta",
+      "pichoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "brave",
+    "translation": "dovyurak, jasur",
+    "options": [
+      "jasur",
+      "qo'rqoq",
+      "sekin",
+      "zaif"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "chief",
+    "translation": "sardor, boshliq",
+    "options": [
+      "sardor",
+      "xizmatchi",
+      "askar",
+      "mehmon"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "disadvantage",
+    "translation": "kamchilik, noqulaylik",
+    "options": [
+      "kamchilik",
+      "afzallik",
+      "yutuq",
+      "foyda"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "enemy",
+    "translation": "dushman",
+    "options": [
+      "dushman",
+      "do'st",
+      "sherik",
+      "qo'shni"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "entrance",
+    "translation": "kirish joyi",
+    "options": [
+      "kirish joyi",
+      "chiqish joyi",
+      "devor",
+      "tom"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "hardly",
+    "translation": "zarg'a, deyarli yo'q",
+    "options": [
+      "deyarli yo'q",
+      "har doim",
+      "juda ko'p",
+      "tezda"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "intend",
+    "translation": "niyat qilmoq",
+    "options": [
+      "niyat qilmoq",
+      "voz kechmoq",
+      "unutmoq",
+      "shubhalanmoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "laughter",
+    "translation": "kulgi",
+    "options": [
+      "kulgi",
+      "yig'i",
+      "shovqin",
+      "g'am"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "log",
+    "translation": "g'ola, xoda",
+    "options": [
+      "g me'da/g'ola",
+      "barg",
+      "ildiz",
+      "tosh"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "military",
+    "translation": "harbiy",
+    "options": [
+      "harbiy",
+      "fuqarolik",
+      "tinch",
+      "sport"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "obey",
+    "translation": "bo'ysunmoq",
+    "options": [
+      "bo'ysunmoq",
+      "qarshi chiqmoq",
+      "rad etmoq",
+      "kuyinmoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "secure",
+    "translation": "xavfsiz qilmoq",
+    "options": [
+      "xavfsiz qilmoq",
+      "xavfga qo'ymoq",
+      "yo'qotmoq",
+      "buzmoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "steady",
+    "translation": "barqaror, bir maromdagi",
+    "options": [
+      "barqaror",
+      "tebranuvchi",
+      "tez",
+      "to'satdan"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "trust",
+    "translation": "ishonmoq",
+    "options": [
+      "ishonmoq",
+      "shubhalanmoq",
+      "aldamoq",
+      "qo'rqmoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "twist",
+    "translation": "buramoq",
+    "options": [
+      "buramoq",
+      "to'g'rilamoq",
+      "yozmoq",
+      "uzmoq"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "unless",
+    "translation": "agar ... bo'lmasa",
+    "options": [
+      "agar ... bo'lmasa",
+      "chunki",
+      "shuning uchun",
+      "lekin"
+    ]
+  },
+  {
+    "unit": 3,
+    "word": "weapon",
+    "translation": "qurol",
+    "options": [
+      "qurol",
+      "sovut",
+      "kiyim",
+      "asbob"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "chest",
+    "translation": "ko'krak qafasi",
+    "options": [
+      "ko'krak qafasi",
+      "bosh",
+      "qo'l",
+      "oyoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "confidence",
+    "translation": "ishonch",
+    "options": [
+      "ishonch",
+      "qo'rquv",
+      "shubha",
+      "uyat"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "consequence",
+    "translation": "oqibat, natija",
+    "options": [
+      "oqibat",
+      "sabab",
+      "boshlanish",
+      "g'oya"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "disaster",
+    "translation": "ofat, fojia",
+    "options": [
+      "ofat",
+      "omad",
+      "bayram",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "disturb",
+    "translation": "bezovta qilmoq",
+    "options": [
+      "bezovta qilmoq",
+      "tinchitmoq",
+      "yordam bermoq",
+      "xursand qilmoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "estimate",
+    "translation": "taxmin qilmoq",
+    "options": [
+      "taxmin qilmoq",
+      "aniq o'lchamoq",
+      "isbotlamoq",
+      "inkor etmoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "honor",
+    "translation": "sharaf, izzat-hurmat",
+    "options": [
+      "sharaf",
+      "sharmandalik",
+      "ayb",
+      "xato"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "impress",
+    "translation": "taassurot qoldirmoq",
+    "options": [
+      "taassurot qoldirmoq",
+      "xafaqilmoq",
+      "unutmoq",
+      "e'tibor bermaslik"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "marathon",
+    "translation": "marafon",
+    "options": [
+      "marafon",
+      "qisqa masofa",
+      "sakrash",
+      "suzish"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "narrow",
+    "translation": "tor",
+    "options": [
+      "tor",
+      "keng",
+      "uzun",
+      "baland"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "pale",
+    "translation": "rangpar",
+    "options": [
+      "rangpar",
+      "yorqin",
+      "qizil",
+      "to'q"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "rough",
+    "translation": "g'adir-budur",
+    "options": [
+      "g'adir-budur",
+      "silliq",
+      "yumshoq",
+      "tekis"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "satisfy",
+    "translation": "qoniqtirmoq",
+    "options": [
+      "qoniqtirmoq",
+      "xafa qilmoq",
+      "rad etmoq",
+      "talab qilmoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "scream",
+    "translation": "baqirmoq, chinqirmoq",
+    "options": [
+      "baqirmoq",
+      "pichirlamoq",
+      "jim turmoq",
+      "kuylamoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "sensitive",
+    "translation": "ta'sirchan, nozik",
+    "options": [
+      "ta'sirchan",
+      "bag'ritosh",
+      "qattiq",
+      "befarq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "shade",
+    "translation": "soya",
+    "options": [
+      "soya",
+      "quyosh",
+      "yorug'lik",
+      "olov"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "supplement",
+    "translation": "to'ldirmoq, qo'shimcha qilmoq",
+    "options": [
+      "qo'shimcha qilmoq",
+      "ayirib tashlamoq",
+      "kamaytirmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "terror",
+    "translation": "vahima, daxshat",
+    "options": [
+      "vahima",
+      "xotirjamlik",
+      "quvonch",
+      "kulgili"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "threat",
+    "translation": "xavf, tahdid",
+    "options": [
+      "tahdid",
+      "himoya",
+      "yordam",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 4,
+    "word": "victim",
+    "translation": "jabrdiyda, qurbon",
+    "options": [
+      "qurbon",
+      "jinoyatchi",
+      "g'olib",
+      "guvoh"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "ancestor",
+    "translation": "ajdod",
+    "options": [
+      "ajdod",
+      "avlod",
+      "qo'shni",
+      "do'st"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "angle",
+    "translation": "burchak",
+    "options": [
+      "burchak",
+      "chiziq",
+      "doira",
+      "markaz"
+    ]
+  },
+  {
+    "unit": "5",
+    "word": "boot",
+    "translation": "etik",
+    "options": [
+      "etik",
+      "paypoq",
+      "shapka",
+      "ko'ylak"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "border",
+    "translation": "chegara",
+    "options": [
+      "chegara",
+      "markaz",
+      "shahar",
+      "bino"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "congratulate",
+    "translation": "tabriklamoq",
+    "options": [
+      "tabriklamoq",
+      "so'kmoq",
+      "tanqid qilmoq",
+      "urishmoq"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "frame",
+    "translation": "ramka",
+    "options": [
+      "ramka",
+      "devor",
+      "oyna",
+      "eshik"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "heaven",
+    "translation": "jannat, osmon",
+    "options": [
+      "jannat",
+      "do'zax",
+      "yer",
+      "dengiz"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "incredible",
+    "translation": "ishonarsiz, ajoyib",
+    "options": [
+      "ishonarsiz",
+      "oddiy",
+      "zerikarli",
+      "yomon"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "legend",
+    "translation": "afsona",
+    "options": [
+      "afsona",
+      "haqiqat",
+      "xabar",
+      "dars"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "praise",
+    "translation": "maqtamoq",
+    "options": [
+      "maqtamoq",
+      "ayblamoq",
+      "jazolamoq",
+      "kamsitmoq"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "proceed",
+    "translation": "davom ettirmoq",
+    "options": [
+      "davom ettirmoq",
+      "to'xtatmoq",
+      "ortga qaytmoq",
+      "tugatmoq"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "pure",
+    "translation": "toza, sof",
+    "options": [
+      "toza",
+      "iflos",
+      "aralash",
+      "qorong'u"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "relative",
+    "translation": "qarindosh",
+    "options": [
+      "qarindosh",
+      "begona",
+      "qo'shni",
+      "dushman"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "senior",
+    "translation": "katta, yoshi ulug'",
+    "options": [
+      "yoshi ulug'",
+      "kichik",
+      "yosh",
+      "yangi"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "silent",
+    "translation": "jim, sukunatli",
+    "options": [
+      "jim",
+      "shovqinli",
+      "baland",
+      "sho'x"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "sink",
+    "translation": "cho'kmoq",
+    "options": [
+      "cho'kmoq",
+      "suzmoq",
+      "uchmoq",
+      "ko'tarilmoq"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "superior",
+    "translation": "ustun, yuqori",
+    "options": [
+      "ustun",
+      "past",
+      "yomon",
+      "zaif"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "surround",
+    "translation": "o'rab olmoq",
+    "options": [
+      "o'rab olmoq",
+      "qochmoq",
+      "qutqarmoq",
+      "tashlab ketmoq"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "thick",
+    "translation": "qalin",
+    "options": [
+      "qalin",
+      "yupqa",
+      "ingichka",
+      "uzun"
+    ]
+  },
+  {
+    "unit": 5,
+    "word": "wrap",
+    "translation": "o'ramoq",
+    "options": [
+      "o'ramoq",
+      "ochmoq",
+      "sindirmoq",
+      "kesmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "abroad",
+    "translation": "Chet elda",
+    "options": [
+      "Chet elda",
+      "Uyda",
+      "Qishloqda",
+      "Ko'chada"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "anger",
+    "translation": "jahl, g'azab",
+    "options": [
+      "g'azab",
+      "quvonch",
+      "kulgi",
+      "xotirjamlik"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "bride",
+    "translation": "kelin",
+    "options": [
+      "kelin",
+      "kuyov",
+      "doya",
+      "xola"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "brief",
+    "translation": "qisqa",
+    "options": [
+      "qisqa",
+      "uzun",
+      "keng",
+      "og'ir"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "chase",
+    "translation": "quvmoq",
+    "options": [
+      "quvmoq",
+      "qochmoq",
+      "to'xtamoq",
+      "kutmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "disappoint",
+    "translation": "hafsa'lasini pir qilmoq",
+    "options": [
+      "hafsalasini pir qilmoq",
+      "quvontirmoq",
+      "yordam bermoq",
+      "ishontirmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "dive",
+    "translation": "sho'ng'imoq",
+    "options": [
+      "sho'ng'imoq",
+      "uchmoq",
+      "yugurmoq",
+      "sakramoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "exchange",
+    "translation": "almashtirmoq",
+    "options": [
+      "almashtirmoq",
+      "saqlamoq",
+      "yo'qotmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "favor",
+    "translation": "yordam, iltifot",
+    "options": [
+      "iltifot",
+      "zarar",
+      "xato",
+      "tahdid"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "fee",
+    "translation": "to'lov, haq",
+    "options": [
+      "to'lov",
+      "sovg'a",
+      "qarz",
+      "foyda"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "forever",
+    "translation": "mangu, abadiy",
+    "options": [
+      "abadiy",
+      "vaqtincha",
+      "tezda",
+      "ba'zan"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "guy",
+    "translation": "yigit, erkak",
+    "options": [
+      "yigit",
+      "qiz",
+      "bola",
+      "keksa"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "lovely",
+    "translation": "joozibali, yoqimli",
+    "options": [
+      "yoqimli",
+      "xunuk",
+      "yomon",
+      "sovuq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "mood",
+    "translation": "kayfiyat",
+    "options": [
+      "kayfiyat",
+      "fikr",
+      "xotira",
+      "orzu"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "palace",
+    "translation": "saroy",
+    "options": [
+      "saroy",
+      "kula",
+      "chodir",
+      "xona"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "permit",
+    "translation": "ruxsat bermoq",
+    "options": [
+      "ruxsat bermoq",
+      "taqiqlamoq",
+      "jazolamoq",
+      "to'xtatmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "protest",
+    "translation": "e'tiroz bildirmoq",
+    "options": [
+      "e'tiroz bildirmoq",
+      "rozi bo'lmoq",
+      "qabul qilmoq",
+      "jim turmoq"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "sculpture",
+    "translation": "maysara, haykal",
+    "options": [
+      "haykal",
+      "rasm",
+      "kino",
+      "musiqa"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "tribe",
+    "translation": "qabila",
+    "options": [
+      "qabila",
+      "shahar",
+      "mamlakat",
+      "oila"
+    ]
+  },
+  {
+    "unit": 6,
+    "word": "youth",
+    "translation": "yoshlik",
+    "options": [
+      "yoshlik",
+      "qarilik",
+      "bolalik",
+      "o'smirlik"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "basis",
+    "translation": "asos, poydevor",
+    "options": [
+      "asos",
+      "tom",
+      "devor",
+      "natija"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "biology",
+    "translation": "biologiya",
+    "options": [
+      "biologiya",
+      "fizika",
+      "tarix",
+      "kimyo"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "cage",
+    "translation": "qafas",
+    "options": [
+      "qafas",
+      "uy",
+      "qutichan",
+      "xona"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "colleague",
+    "translation": "hamkasb",
+    "options": [
+      "hamkasb",
+      "dushman",
+      "qarindosh",
+      "talaba"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "colony",
+    "translation": "koloniya",
+    "options": [
+      "koloniya",
+      "shahar",
+      "davlat",
+      "orol"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "debate",
+    "translation": "bahs-munozara",
+    "options": [
+      "bahs-munozara",
+      "kelishuv",
+      "sukunat",
+      "dars"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "depart",
+    "translation": "jo'nab ketmoq",
+    "options": [
+      "jo'nab ketmoq",
+      "yetib kelmoq",
+      "to'xtamoq",
+      "qolmoq"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "depress",
+    "translation": "xafa qilmoq, tushkunlikka solmoq",
+    "options": [
+      "tushkunlikka solmoq",
+      "xursand qilmoq",
+      "ilhomlantirmoq",
+      "kuldirmoq"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "factual",
+    "translation": "faktlarga asoslangan",
+    "options": [
+      "faktlarga asoslangan",
+      "uydirma",
+      "yolg'on",
+      "sirli"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "fascinate",
+    "translation": "valvalaga solmoq, rom etmoq",
+    "options": [
+      "rom etmoq",
+      "zeriktirmoq",
+      "qo'rqitmoq",
+      "xafa qilmoq"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "mission",
+    "translation": "topshiriq, vazifa",
+    "options": [
+      "topshiriq",
+      "dam olish",
+      "o'yin",
+      "xato"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "nevertheless",
+    "translation": "shunga qaramay",
+    "options": [
+      "shunga qaramay",
+      "chunki",
+      "agar",
+      "yoki"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "occupation",
+    "translation": "kasb, mashg'ulot",
+    "options": [
+      "kasb",
+      "ism",
+      "yosh",
+      "manzil"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "original",
+    "translation": "dastlabki, asl",
+    "options": [
+      "asl",
+      "nusxa",
+      "yangi",
+      "soxta"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "route",
+    "translation": "yo'nalish, marshrut",
+    "options": [
+      "marshrut",
+      "manzil",
+      "to'siq",
+      "transport"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "sense",
+    "translation": "his etmoq, tuyg'u",
+    "options": [
+      "tuyg'u",
+      "fikr",
+      "xotira",
+      "ko'rinish"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "shadow",
+    "translation": "soya",
+    "options": [
+      "soya",
+      "nur",
+      "quyosh",
+      "chiroq"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "spirit",
+    "translation": "rux, kayfiyat",
+    "options": [
+      "ruh",
+      "tana",
+      "qon",
+      "suyak"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "subway",
+    "translation": "metro",
+    "options": [
+      "metro",
+      "poyezd",
+      "avtobus",
+      "samolyot"
+    ]
+  },
+  {
+    "unit": 7,
+    "word": "tourist",
+    "translation": "sayyoh",
+    "options": [
+      "sayyoh",
+      "soatsoz",
+      "haydovchi",
+      "qo'riqchi"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "broad",
+    "translation": "keng",
+    "options": [
+      "keng",
+      "tor",
+      "qisqa",
+      "kichik"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "bush",
+    "translation": "buta",
+    "options": [
+      "buta",
+      "daraxt",
+      "maysa",
+      "gul"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "capable",
+    "translation": "qobiliyatli",
+    "options": [
+      "qobiliyatli",
+      "nojo'ya",
+      "noloyiq",
+      "zaif"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "cheat",
+    "translation": "g'irromlik qilmoq, aldamoq",
+    "options": [
+      "aldamoq",
+      "yordam bermoq",
+      "to'g'ri so'zlamoq",
+      "o'rganmoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "concentrate",
+    "translation": "diqqatni jamlamoq",
+    "options": [
+      "diqqatni jamlamoq",
+      "chalag'ishmoq",
+      "xayol surmoq",
+      "uxlamoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "conclude",
+    "translation": "xulosa qilmoq",
+    "options": [
+      "xulosa qilmoq",
+      "boshlamoq",
+      "davom ettirmoq",
+      "so'ramoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "confident",
+    "translation": "o'ziga ishongan",
+    "options": [
+      "o'ziga ishongan",
+      "tortinchoq",
+      "qo'rqoq",
+      "shubhalangan"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "considerable",
+    "translation": "sezilarli, salmoqli",
+    "options": [
+      "sezilarli",
+      "juda kam",
+      "arzimas",
+      "mayda"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "convey",
+    "translation": "yetkazmoq, bildirmoq",
+    "options": [
+      "yetkazmoq",
+      "yashirmoq",
+      "yo'qotmoq",
+      "olish"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "definite",
+    "translation": "aniq, aniq belgilangan",
+    "options": [
+      "aniq",
+      "gumonli",
+      "noma'lum",
+      "xira"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "delight",
+    "translation": "zavq, quvonch",
+    "options": [
+      "quvonch",
+      "g'am",
+      "nafrat",
+      "qo'rquv"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "destination",
+    "translation": "manzil",
+    "options": [
+      "manzil",
+      "boshlanish nuqtasi",
+      "yo'l",
+      "xarita"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "dictate",
+    "translation": "aytib turib yozdirmoq",
+    "options": [
+      "aytib turib yozdirmoq",
+      "o'qimoq",
+      "tinglamoq",
+      "chizmoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "edge",
+    "translation": "chekka, chet",
+    "options": [
+      "chet",
+      "markaz",
+      "orta",
+      "tepa"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "path",
+    "translation": "so'qmoq, yo'l",
+    "options": [
+      "so'qmoq",
+      "katta yo'l",
+      "daryo",
+      "ko'prik"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "resort",
+    "translation": "dam olish maskani",
+    "options": [
+      "dam olish maskani",
+      "ishxona",
+      "zavod",
+      "maktab"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "shadow",
+    "translation": "soya",
+    "options": [
+      "soya",
+      "yorug'lik",
+      "quyosh",
+      "olov"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "succeed",
+    "translation": "muvaffaqiyatga erishmoq",
+    "options": [
+      "muvaffaqiyatga erishmoq",
+      "yutqazmoq",
+      "yiqilmoq",
+      "to'xtamoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "suspect",
+    "translation": "shubhalanmoq",
+    "options": [
+      "shubhalanmoq",
+      "ishonmoq",
+      "tasdiqlamoq",
+      "sevmoq"
+    ]
+  },
+  {
+    "unit": 8,
+    "word": "valley",
+    "translation": "vodiylik, vadiy",
+    "options": [
+      "vadiy",
+      "tog'",
+      "cho'l",
+      "orol"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "against",
+    "translation": "qarshi",
+    "options": [
+      "qarshi",
+      "tomonda",
+      "birga",
+      "yaqinida"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "beach",
+    "translation": "plyaj, sohildagi qumlik",
+    "options": [
+      "plyaj",
+      "tog'",
+      "o'rmon",
+      "bog'"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "damage",
+    "translation": "zarar yetkazmoq",
+    "options": [
+      "zarar yetkazmoq",
+      "tuzatmoq",
+      "qurmoq",
+      "himoya qilmoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "discover",
+    "translation": "kashf etmoq",
+    "options": [
+      "kashf etmoq",
+      "yashirmoq",
+      "yo'qotmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "emotion",
+    "translation": "hissiyot, emotsiya",
+    "options": [
+      "hissiyot",
+      "mantiq",
+      "fikr",
+      "reja"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "fix",
+    "translation": "tuzatmoq",
+    "options": [
+      "tuzatmoq",
+      "buzmoq",
+      "sindirmoq",
+      "tashlamoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "frank",
+    "translation": "samimiy, ochiq ko'ngil",
+    "options": [
+      "samimiy",
+      "ayyor",
+      "makkor",
+      "qo'pol"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "identify",
+    "translation": "aniqlamoq, shaxsini bilmoq",
+    "options": [
+      "aniqlamoq",
+      "adashmoq",
+      "yashirmoq",
+      "e'tiborsiz qoldirmoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "island",
+    "translation": "orol",
+    "options": [
+      "orol",
+      "ko'l",
+      "daryo",
+      "shahar"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "ocean",
+    "translation": "okean",
+    "options": [
+      "okean",
+      "ariq",
+      "hovuz",
+      "buloq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "perhaps",
+    "translation": "ehtimol, balki",
+    "options": [
+      "ehtimol",
+      "aniq",
+      "albatta",
+      "hech qachon"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "pleasant",
+    "translation": "yoqimli",
+    "options": [
+      "yoqimli",
+      "yomon",
+      "sovuq",
+      "qo'rqinchli"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "prevent",
+    "translation": "oldini olmoq",
+    "options": [
+      "oldini olmoq",
+      "yordam bermoq",
+      "ruxsat bermoq",
+      "boshlamoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "rock",
+    "translation": "tosh, qoya",
+    "options": [
+      "tosh",
+      "tuproq",
+      "qum",
+      "daraxt"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "save",
+    "translation": "qutqarmoq, saqlamoq",
+    "options": [
+      "qutqarmoq",
+      "xavfga qo'ymoq",
+      "sindirmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "step",
+    "translation": "qadam bosmoq",
+    "options": [
+      "qadam bosmoq",
+      "o'tirmoq",
+      "yotmoq",
+      "to'xtamoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "still",
+    "translation": "hali ham",
+    "options": [
+      "hali ham",
+      "allaqachon",
+      "hech qachon",
+      "tezda"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "taste",
+    "translation": "maza qilib totib ko'rmoq",
+    "options": [
+      "totib ko'rmoq",
+      "hidlamoq",
+      "eshitmoq",
+      "ko'rmoq"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "throw",
+    "translation": "otmoq, uloqtirmoq",
+    "options": [
+      "otmoq",
+      "tutib olmoq",
+      "saqlamoq",
+      "qo'yish"
+    ]
+  },
+  {
+    "unit": 9,
+    "word": "wave",
+    "translation": "to'lqin",
+    "options": [
+      "to'lqin",
+      "shamol",
+      "yomg'ir",
+      "qor"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "benefit",
+    "translation": "foyda, naf",
+    "options": [
+      "foyda",
+      "zarar",
+      "xarajat",
+      "xato"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "certain",
+    "translation": "aniq, ishonchli",
+    "options": [
+      "aniq",
+      "noaniq",
+      "shubhali",
+      "xato"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "chance",
+    "translation": "imkoniyat, imkon",
+    "options": [
+      "imkoniyat",
+      "to'siq",
+      "muammo",
+      "yo'qotish"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "effect",
+    "translation": "ta'sir, natija",
+    "options": [
+      "ta'sir",
+      "sabab",
+      "boshlanish",
+      "maqsadsizlik"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "essential",
+    "translation": "juda muhim, zarur",
+    "options": [
+      "zarur",
+      "keraksiz",
+      "ortiqcha",
+      "mayda"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "far",
+    "translation": "olis, uzoq",
+    "options": [
+      "uzoq",
+      "yaqin",
+      "yonida",
+      "ichida"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "focus",
+    "translation": "e'tiborni qaratmoq",
+    "options": [
+      "e'tiborni qaratmoq",
+      "chalg'imoq",
+      "unutmoq",
+      "ko'rmaslik"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "function",
+    "translation": "vazifa, funksiya",
+    "options": [
+      "vazifa",
+      "xato",
+      "oqibat",
+      "ism"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "grass",
+    "translation": "o't, maysa",
+    "options": [
+      "maysa",
+      "daraxt",
+      "tosh",
+      "tuproq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "guard",
+    "translation": "himoya qilmoq, qo'riqlamoq",
+    "options": [
+      "himoya qilmoq",
+      "hujum qilmoq",
+      "tashlab ketmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "image",
+    "translation": "tasvir, rasm",
+    "options": [
+      "tasvir",
+      "ovoz",
+      "so'z",
+      "xid"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "immediate",
+    "translation": "darg'azab, darhol",
+    "options": [
+      "darhol",
+      "sekin",
+      "keyinchalik",
+      "vaqti-vaqti bilan"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "primary",
+    "translation": "asosiy, birinchi darajali",
+    "options": [
+      "asosiy",
+      "ikkinchi darajali",
+      "oxirgi",
+      "keraksiz"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "proud",
+    "translation": "faxrlanadigan, mag'rur",
+    "options": [
+      "mag'rur",
+      "uyatli",
+      "kamtar",
+      "xafa"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "remain",
+    "translation": "qolmoq",
+    "options": [
+      "qolmoq",
+      "ketmoq",
+      "yo'qolmoq",
+      "o'zgarmoq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "rest",
+    "translation": "dam olmoq",
+    "options": [
+      "dam olmoq",
+      "ishlamoq",
+      "yugurmoq",
+      "tashvishlanmoq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "separate",
+    "translation": "ajratmoq",
+    "options": [
+      "ajratmoq",
+      "birlashtirmoq",
+      "qo'shmoq",
+      "yig'moq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "site",
+    "translation": "joy, maydon",
+    "options": [
+      "joy",
+      "vaqt",
+      "ism",
+      "fikr"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "tail",
+    "translation": "dum",
+    "options": [
+      "dum",
+      "bosh",
+      "qanot",
+      "oyoq"
+    ]
+  },
+  {
+    "unit": 10,
+    "word": "trouble",
+    "translation": "qiyinchilik, muammo",
+    "options": [
+      "muammo",
+      "omad",
+      "yutuq",
+      "quvonch"
+    ]
+  },
+  
+  {
+    "unit": 11,
+    "word": "anymore",
+    "translation": "boshqa, ortiq",
+    "options": [
+      "boshqa",
+      "har doim",
+      "hozir",
+      "yana"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "asleep",
+    "translation": "uxlayotgan",
+    "options": [
+      "uxlayotgan",
+      "uyg'oq",
+      "yugurayotgan",
+      "o'tirgan"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "berry",
+    "translation": "reza meva",
+    "options": [
+      "reza meva",
+      "olma",
+      "sabzavot",
+      "yong'oq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "collect",
+    "translation": "yig'moq, to'plamoq",
+    "options": [
+      "yig'moq",
+      "sochmoq",
+      "yo'qotmoq",
+      "sotmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "compete",
+    "translation": "bellashmoq, musobaqalashmoq",
+    "options": [
+      "bellashmoq",
+      "yordam bermoq",
+      "taslim bo'lmoq",
+      "kutmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "conversation",
+    "translation": "suhbat, muloqot",
+    "options": [
+      "suhbat",
+      "urush",
+      "sukunat",
+      "dars"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "creature",
+    "translation": "mavjudot, maxluq",
+    "options": [
+      "mavjudot",
+      "bino",
+      "buyum",
+      "o'simlik"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "decision",
+    "translation": "qaror",
+    "options": [
+      "qaror",
+      "xato",
+      "savol",
+      "shubha"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "either",
+    "translation": "yoki ... yoki (har ikkisidan biri)",
+    "options": [
+      "har ikkisidan biri",
+      "hech qaysi",
+      "hammasi",
+      "faqat biri"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "forest",
+    "translation": "o'rmon",
+    "options": [
+      "o'rmon",
+      "cho'l",
+      "dengiz",
+      "shahar"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "ground",
+    "translation": "yer, tuproq",
+    "options": [
+      "yer",
+      "osmon",
+      "tom",
+      "suv"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "introduce",
+    "translation": "tanishtirmoq",
+    "options": [
+      "tanishtirmoq",
+      "yashirmoq",
+      "quvmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "marry",
+    "translation": "turmush qurmoq",
+    "options": [
+      "turmush qurmoq",
+      "ajrashmoq",
+      "urishmoq",
+      "sayohat qilmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "prepare",
+    "translation": "tayyorlanmoq, tayyorlamoq",
+    "options": [
+      "tayyorlamoq",
+      "buzmoq",
+      "kechikmoq",
+      "tashlab ketmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "sail",
+    "translation": "kema suzmoq",
+    "options": [
+      "kema suzmoq",
+      "uchmoq",
+      "yugurmoq",
+      "sakramoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "serious",
+    "translation": "jiddiy",
+    "options": [
+      "jiddiy",
+      "kulgili",
+      "sho'x",
+      "yengil-elpi"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "spend",
+    "translation": "sarflamoq, o'tkazmoq",
+    "options": [
+      "sarflamoq",
+      "tejamoq",
+      "yutib olmoq",
+      "topmoq"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "strange",
+    "translation": "ajoyib, g'alati",
+    "options": [
+      "g'alati",
+      "tanish",
+      "oddiy",
+      "mashhur"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "truth",
+    "translation": "haqiqat",
+    "options": [
+      "haqiqat",
+      "yolg'on",
+      "orzu",
+      "afsona"
+    ]
+  },
+  {
+    "unit": 11,
+    "word": "wake",
+    "translation": "uyg'onmoq, uyg'otmoq",
+    "options": [
+      "uyg'onmoq",
+      "uxlamoq",
+      "yiqilmoq",
+      "dam olmoq"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "alone",
+    "translation": "yolg'iz",
+    "options": [
+      "yolg'iz",
+      "birga",
+      "gavjum",
+      "qo'shni"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "apartment",
+    "translation": "xatona, kvartira",
+    "options": [
+      "kvartira",
+      "hovli",
+      "garaj",
+      "ko'cha"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "article",
+    "translation": "maqola",
+    "options": [
+      "maqola",
+      "kitob",
+      "kino",
+      "rasm"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "artist",
+    "translation": "rassom, san'atkor",
+    "options": [
+      "rassom",
+      "shifokor",
+      "o'qituvchi",
+      "muhandis"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "attitude",
+    "translation": "munosabat, qarash",
+    "options": [
+      "munosabat",
+      "boylik",
+      "bo'y",
+      "bilim"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "beauty",
+    "translation": "go'zallik",
+    "options": [
+      "go'zallik",
+      "xunuklik",
+      "yoshlik",
+      "kuch"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "compare",
+    "translation": "solishtirmoq",
+    "options": [
+      "solishtirmoq",
+      "ajratmoq",
+      "tanlamoq",
+      "yashirmoq"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "judge",
+    "translation": "hakamlik qilmoq, baholamoq",
+    "options": [
+      "baholamoq",
+      "yordam bermoq",
+      "xato qilmoq",
+      "o'rganmoq"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "magazine",
+    "translation": "jurnal",
+    "options": [
+      "jurnal",
+      "gazeta",
+      "daftar",
+      "mushuk"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "material",
+    "translation": "xomashyo, material",
+    "options": [
+      "material",
+      "mahsulot",
+      "tayyor buyum",
+      "chaxshm"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "meal",
+    "translation": "ovqat, taom",
+    "options": [
+      "taom",
+      "ichimlik",
+      "meva",
+      "shirinlik"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "method",
+    "translation": "usul, metod",
+    "options": [
+      "usul",
+      "maqsad",
+      "xato",
+      "natija"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "neighbor",
+    "translation": "qo'shni",
+    "options": [
+      "qo'shni",
+      "dushman",
+      "qarindosh",
+      "begona"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "professional",
+    "translation": "soha mutaxassisi, professional",
+    "options": [
+      "professional",
+      "havaskor",
+      "yangi o'rganuvchi",
+      "o'quvchi"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "profit",
+    "translation": "foyda, daromad",
+    "options": [
+      "daromad",
+      "zarar",
+      "xarajat",
+      "qarz"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "quality",
+    "translation": "sifat",
+    "options": [
+      "sifat",
+      "son",
+      "narx",
+      "og'irlik"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "shape",
+    "translation": "shakl",
+    "options": [
+      "shakl",
+      "rang",
+      "o'lcham",
+      "og'irlik"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "space",
+    "translation": "bo'sh joy, koinot",
+    "options": [
+      "bo me joy",
+      "tor joy",
+      "xona",
+      "bino"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "stair",
+    "translation": "zina",
+    "options": [
+      "zina",
+      "eshik",
+      "deraza",
+      "tom"
+    ]
+  },
+  {
+    "unit": 12,
+    "word": "symbol",
+    "translation": "ramz, belgi",
+    "options": [
+      "ramz",
+      "so'z",
+      "ism",
+      "son"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "accounting",
+    "translation": "buxgalteriya",
+    "options": [
+      "buxgalteriya",
+      "fizika",
+      "tarix",
+      "musiqa"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "appeal",
+    "translation": "o'ziga jalb etmoq",
+    "options": [
+      "o'ziga jalb etmoq",
+      "itarmog",
+      "qo'rqitmoq",
+      "zeriktirmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "assume",
+    "translation": "faraz qilmoq",
+    "options": [
+      "faraz qilmoq",
+      "isbotlamoq",
+      "rad etmoq",
+      "bilmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "borrow",
+    "translation": "qarzga olmoq",
+    "options": [
+      "qarzga olmoq",
+      "qarzga bermoq",
+      "sotib olmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "client",
+    "translation": "mizoz, mijoz",
+    "options": [
+      "mijoz",
+      "sotuvchi",
+      "boshliq",
+      "ishchi"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "downturn",
+    "translation": "iqtisodiy pasayish",
+    "options": [
+      "pasayish",
+      "o'sish",
+      "rivojlanish",
+      "g'alaba"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "dull",
+    "translation": "zerikarli, xira",
+    "options": [
+      "zerikarli",
+      "yorqin",
+      "qiziqarli",
+      "sho'x"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "embarrass",
+    "translation": "xijolat qilmoq",
+    "options": [
+      "xijolat qilmoq",
+      "quvontirmoq",
+      "maqtamoq",
+      "rozi qilmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "fare",
+    "translation": "yo'l haqi",
+    "options": [
+      "yo'l haqi",
+      "sovg'a",
+      "jarima",
+      "soliq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "former",
+    "translation": "sobiq, oldingi",
+    "options": [
+      "sobiq",
+      "hozirgi",
+      "kelajakdagi",
+      "yangi"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "formula",
+    "translation": "formula, qoida",
+    "options": [
+      "formula",
+      "rasm",
+      "savol",
+      "xato"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "found",
+    "translation": "asos solmoq",
+    "options": [
+      "asos solmoq",
+      "buzmoq",
+      "yo'qotmoq",
+      "sotmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "invest",
+    "translation": "sarmoya kiritmoq",
+    "options": [
+      "sarmoya kiritmoq",
+      "sarflab tugatmoq",
+      "o'g'irlamoq",
+      "qarz olmoq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "loan",
+    "translation": "kredit, qarz",
+    "options": [
+      "kredit",
+      "sovg'a",
+      "daromad",
+      "ish haqi"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "practical",
+    "translation": "amaliy, amaliyotga oid",
+    "options": [
+      "amaliy",
+      "nazariy",
+      "qiyin",
+      "xayoliy"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "quarter",
+    "translation": "chorak (1/4)",
+    "options": [
+      "chorak",
+      "yarim",
+      "butun",
+      "uchdan bir"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "salary",
+    "translation": "ish haqi, maosh",
+    "options": [
+      "maosh",
+      "jarima",
+      "soliq",
+      "qarz"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "scholar",
+    "translation": "olim, bilimdi odam",
+    "options": [
+      "olim",
+      "o'quvchi",
+      "sportchi",
+      "sotuvchi"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "treasure",
+    "translation": "xazina",
+    "options": [
+      "xazina",
+      "chiqindi",
+      "tosh",
+      "tuproq"
+    ]
+  },
+  {
+    "unit": 13,
+    "word": "urge",
+    "translation": "undamoq, undamoq",
+    "options": [
+      "undamoq",
+      "to'xtatmoq",
+      "taqiqlamoq",
+      "kuyinmoq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "coach",
+    "translation": "murabbiy",
+    "options": [
+      "murabbiy",
+      "o'yinchi",
+      "xakam",
+      "muxlis"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "control",
+    "translation": "boshqarmoq, nazorat qilmoq",
+    "options": [
+      "nazorat qilmoq",
+      "yo'qotmoq",
+      "bo'shashtirmoq",
+      "erkalatmoq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "description",
+    "translation": "ta'rif, tavsif",
+    "options": [
+      "ta'rif",
+      "savol",
+      "xato",
+      "buyruq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "direct",
+    "translation": "to'g'ridan-to'g'ri, yo'naltirmoq",
+    "options": [
+      "yo'naltirmoq",
+      "adashmoq",
+      "aylanma",
+      "berkitmoq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "exam",
+    "translation": "imtihon",
+    "options": [
+      "imtihon",
+      "dars",
+      "ta'til",
+      "mashq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "example",
+    "translation": "namuna, misol",
+    "options": [
+      "misol",
+      "qoida",
+      "xato",
+      "natija"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "limit",
+    "translation": "chegara, me'yor",
+    "options": [
+      "chegara",
+      "erkinlik",
+      "kenglik",
+      "boshlanish"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "local",
+    "translation": "mahalliy",
+    "options": [
+      "mahalliy",
+      "xorijiy",
+      "uzoqdag'i",
+      "koinotdagi"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "magical",
+    "translation": "sehirli, sehrli",
+    "options": [
+      "sehrli",
+      "oddiy",
+      "zerikarli",
+      "haqiqiy"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "novel",
+    "translation": "roman (asar)",
+    "options": [
+      "roman",
+      "sher",
+      "xat",
+      "xabar"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "outline",
+    "translation": "reja, rezyume",
+    "options": [
+      "reja",
+      "xulosa",
+      "tasodif",
+      "xato"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "poet",
+    "translation": "shoir",
+    "options": [
+      "shoir",
+      "yozuvchi",
+      "shifokor",
+      "olim"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "print",
+    "translation": "chop etmoq",
+    "options": [
+      "chop etmoq",
+      "o'chirmoq",
+      "chizmoq",
+      "yozish"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "scene",
+    "translation": "sahna, ko'rinish",
+    "options": [
+      "sahna",
+      "bino",
+      "xona",
+      "tom"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "sheet",
+    "translation": "choyshab, qog'oz varag'i",
+    "options": [
+      "varaq",
+      "kitob",
+      "qalam",
+      "stol"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "silly",
+    "translation": "ahmoqona, bemantiq",
+    "options": [
+      "ahmoqona",
+      "aqlli",
+      "jiddiy",
+      "donolik"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "store",
+    "translation": "do'kon, saqlamoq",
+    "options": [
+      "do'kon",
+      "ko'cha",
+      "maydon",
+      "daryo"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "suffer",
+    "translation": "aziyat chekmoq",
+    "options": [
+      "aziyat chekmoq",
+      "rohatlanmoq",
+      "quvonmoq",
+      "davolanmoq"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "technology",
+    "translation": "texnologiya",
+    "options": [
+      "texnologiya",
+      "tarix",
+      "tabiat",
+      "san'at"
+    ]
+  },
+  {
+    "unit": 14,
+    "word": "youth",
+    "translation": "yoshlik",
+    "options": [
+      "yoshlik",
+      "qarilik",
+      "keksalik",
+      "kattalik"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "across",
+    "translation": "nariyoqqa, ko'ndalangiga",
+    "options": [
+      "nariyoqqa",
+      "orqasiga",
+      "ichiga",
+      "ostiga"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "breathe",
+    "translation": "nafas olmoq",
+    "options": [
+      "nafas olmoq",
+      "yutmoq",
+      "yo'talmoq",
+      "gapirmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "characteristic",
+    "translation": "xususiyat, xarakter",
+    "options": [
+      "xususiyat",
+      "ism",
+      "ko'rinish",
+      "yosh"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "consume",
+    "translation": "iste'mol qilmoq",
+    "options": [
+      "iste'mol qilmoq",
+      "yaratmoq",
+      "saqlamoq",
+      "sotmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "excite",
+    "translation": "xayajonga solmoq",
+    "options": [
+      "xayajonga solmoq",
+      "tinchitmoq",
+      "zeriktirmoq",
+      "uxlatmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "extreme",
+    "translation": "keskin, o'ta yuqori",
+    "options": [
+      "keskin",
+      "me'yordagi",
+      "past",
+      "oddiy"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "fear",
+    "translation": "qo'rquv",
+    "options": [
+      "qo'rquv",
+      "jasorat",
+      "quvonch",
+      "uymok"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "fortunate",
+    "translation": "omadli, baxtli",
+    "options": [
+      "omadli",
+      "omadsiz",
+      "kambag'al",
+      "xafa"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "happen",
+    "translation": "ro'y bermoq",
+    "options": [
+      "ro'y bermoq",
+      "to'xtamoq",
+      "kechikmoq",
+      "yo'qolmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "length",
+    "translation": "uzunlik",
+    "options": [
+      "uzunlik",
+      "kenglik",
+      "og'irlik",
+      "bo'y"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "mistake",
+    "translation": "xato",
+    "options": [
+      "xato",
+      "g'alaba",
+      "to'g'ri javob",
+      "yutuq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "observe",
+    "translation": "kuzatmoq",
+    "options": [
+      "kuzatmoq",
+      "e'tiborsiz qoldirmoq",
+      "yashirinmoq",
+      "uxlamoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "opportunity",
+    "translation": "imkoniyat",
+    "options": [
+      "imkoniyat",
+      "to'siq",
+      "yo'qotish",
+      "muammo"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "prize",
+    "translation": "mukofot, sovrin",
+    "options": [
+      "sovrin",
+      "jarima",
+      "soliq",
+      "qarz"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "race",
+    "translation": "poyga, musobaqa",
+    "options": [
+      "poyga",
+      "dam olish",
+      "suhbat",
+      "ish"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "realize",
+    "translation": "anglab yetmoq",
+    "options": [
+      "anglab yetmoq",
+      "unutmoq",
+      "adashmoq",
+      "shubhalanmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "respond",
+    "translation": "javob qaytarmoq",
+    "options": [
+      "javob qaytarmoq",
+      "so'ramoq",
+      "jim turmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "risk",
+    "translation": "xavf-xatar, tavakkal",
+    "options": [
+      "tavakkal",
+      "xavfsizlik",
+      "kafolat",
+      "tinchlik"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "wonder",
+    "translation": "ajablanmoq, bilishga qiziqmoq",
+    "options": [
+      "ajablanmoq",
+      "aniq bilmoq",
+      "inkor etmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 15,
+    "word": "yet",
+    "translation": "hali ham, biroq",
+    "options": [
+      "hali ham",
+      "allaqachon",
+      "hech qachon",
+      "tezda"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "academy",
+    "translation": "akademiya",
+    "options": [
+      "akademiya",
+      "bozor",
+      "stadion",
+      "zavod"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "ancient",
+    "translation": "qadimiy",
+    "options": [
+      "qadimiy",
+      "zamonaviy",
+      "yangi",
+      "kelajakdagi"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "board",
+    "translation": "doshta, taxta",
+    "options": [
+      "taxta",
+      "qog'oz",
+      "oyna",
+      "temir"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "clue",
+    "translation": "ip uchi, kalit",
+    "options": [
+      "ip uchi",
+      "xato",
+      "sir",
+      "muammo"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "concert",
+    "translation": "konsert",
+    "options": [
+      "konsert",
+      "sport musobaqasi",
+      "kino",
+      "dars"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "county",
+    "translation": "okrug, viloyat",
+    "options": [
+      "viloyat",
+      "poytaxt",
+      "ko'cha",
+      "uy"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "dictionary",
+    "translation": "lug'at",
+    "options": [
+      "lug'at",
+      "darslik",
+      "daftar",
+      "jurnal"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "exist",
+    "translation": "mavjud bo'lmoq",
+    "options": [
+      "mavjud bo'lmoq",
+      "yo'qolmoq",
+      "o'lmoq",
+      "yo'q bo'lmoq"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "flat",
+    "translation": "tekis, yassi",
+    "options": [
+      "tekis",
+      "tik",
+      "g'adir-budur",
+      "dumaloq"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "gentleman",
+    "translation": "jenshtelmen, olijanob kishi",
+    "options": [
+      "olijanob kishi",
+      "qo'pol odam",
+      "o'g'ri",
+      "boshliq"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "hidden",
+    "translation": "yashiringan, yashirin",
+    "options": [
+      "yashirin",
+      "ochiq",
+      "ko'rinib turgan",
+      "mashhur"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "maybe",
+    "translation": "balki, ehtimol",
+    "options": [
+      "balki",
+      "albatta",
+      "aniq",
+      "hech qachon"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "officer",
+    "translation": "zabit, unvonli shaxs",
+    "options": [
+      "zobit",
+      "oddiy fuqaro",
+      "o'quvchi",
+      "ishchi"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "original",
+    "translation": "asl, dastlabki",
+    "options": [
+      "asl",
+      "soxta",
+      "nusxa",
+      "oxirgi"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "pound",
+    "translation": "zarba bermoq, urmoq",
+    "options": [
+      "urmoq",
+      "silamoq",
+      "ushlab turmoq",
+      "tashlamoq"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "process",
+    "translation": "jarayon",
+    "options": [
+      "jarayon",
+      "natija",
+      "xulosa",
+      "to'xtash"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "publish",
+    "translation": "nashr etmoq",
+    "options": [
+      "nashr etmoq",
+      "yashirmoq",
+      "o'chirmoq",
+      "o'qimoq"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "theater",
+    "translation": "teatr",
+    "options": [
+      "teatr",
+      "maktab",
+      "Kasalxona",
+      "magazin"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "wealth",
+    "translation": "boylik, farovonlik",
+    "options": [
+      "boylik",
+      "kambag'allik",
+      "qarz",
+      "kasallik"
+    ]
+  },
+  {
+    "unit": 16,
+    "word": "appreciate",
+    "translation": "qadrlamoq",
+    "options": [
+      "qadrlamoq",
+      "kamsitmoq",
+      "e'tiborsiz qoldirmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "aim",
+    "translation": "maqsad qilmoq, mo'ljallamoq",
+    "options": [
+      "maqsad qilmoq",
+      "tasodifan qilmoq",
+      "unutmoq",
+      "rad etmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "attach",
+    "translation": "biriktirmoq, ilovalamoq",
+    "options": [
+      "biriktirmoq",
+      "ajratmoq",
+      "uzmoq",
+      "tashlab yubormoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "bet",
+    "translation": "garov o'ynamoq",
+    "options": [
+      "garov o'ynamoq",
+      "yo'qotmoq",
+      "ishlamoq",
+      "to'lamoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "carriage",
+    "translation": "kareta, arava",
+    "options": [
+      "kareta",
+      "moshina",
+      "poyezd",
+      "samolyot"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "classic",
+    "translation": "mumtoz, klassik",
+    "options": [
+      "klassik",
+      "zamonaviy",
+      "vaqtincha",
+      "yangi"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "commute",
+    "translation": "qatnamoq (ishga/o'qishga)",
+    "options": [
+      "qatnamoq",
+      "ko'chib o'tmoq",
+      "sayohat qilmoq",
+      "dam olmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "confirm",
+    "translation": "tasdiqlamoq",
+    "options": [
+      "tasdiqlamoq",
+      "inkor etmoq",
+      "shubhalanmoq",
+      "rad etmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "criticize",
+    "translation": "tanqid qilmoq",
+    "options": [
+      "tanqid qilmoq",
+      "maqtamoq",
+      "qo'llab-quvvatlamoq",
+      "quvontirmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "differ",
+    "translation": "farq qilmoq",
+    "options": [
+      "farq qilmoq",
+      "o'xshamoq",
+      "birlashmoq",
+      "mos kelmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "expense",
+    "translation": "xarajat",
+    "options": [
+      "xarajat",
+      "daromad",
+      "foyda",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "formal",
+    "translation": "rasmiy",
+    "options": [
+      "rasmiy",
+      "norasmiy",
+      "oddiy",
+      "erkin"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "height",
+    "translation": "balandlik, bo'y",
+    "options": [
+      "balandlik",
+      "kenglik",
+      "chuqurlik",
+      "og'irlik"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "invent",
+    "translation": "ixtiro qilmoq",
+    "options": [
+      "ixtiro qilmoq",
+      "qaytarmoq",
+      "nusxa olmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "junior",
+    "translation": "kichik, yoshi kichik",
+    "options": [
+      "yoshi kichik",
+      "kattaroq",
+      "keksa",
+      "tajribali"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "labor",
+    "translation": "mehnat, og'ir ish",
+    "options": [
+      "mehnat",
+      "dam olish",
+      "o'yin",
+      "uyqu"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "prime",
+    "translation": "eng asosiy, eng yaxshi",
+    "options": [
+      "asosiy",
+      "ikkinchi darajali",
+      "yomon",
+      "so'nggi"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "shift",
+    "translation": "siljitmoq, o'zgartirmoq",
+    "options": [
+      "o'zgartirmoq",
+      "sindirmoq",
+      "to'xtatmoq",
+      "saqlamoq"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "signal",
+    "translation": "ishora, signal",
+    "options": [
+      "ishora",
+      "xato",
+      "ovozsizlik",
+      "xabar"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "sincere",
+    "translation": "samimiy",
+    "options": [
+      "samimiy",
+      "makkor",
+      "yolg'onchi",
+      "qo'pol"
+    ]
+  },
+  {
+    "unit": 17,
+    "word": "ability",
+    "translation": "qobiliyat, iqtidor",
+    "options": [
+      "qobiliyat",
+      "zaiflik",
+      "kasallik",
+      "xato"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "abnormal",
+    "translation": "anormal, g'ayrioddiy",
+    "options": [
+      "g'ayrioddiy",
+      "oddiy",
+      "me'yordagi",
+      "tanish"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "bamboo",
+    "translation": "bambuk",
+    "options": [
+      "bambuk",
+      "eman",
+      "qarag'ay",
+      "maysa"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "blossom",
+    "translation": "gullamoq, guldavri",
+    "options": [
+      "gullamoq",
+      "so'limoq",
+      "qurimoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "compass",
+    "translation": "kompas",
+    "options": [
+      "kompas",
+      "soat",
+      "xarita",
+      "tarozu"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "degree",
+    "translation": "daraja",
+    "options": [
+      "daraja",
+      "masofa",
+      "og'irlik",
+      "narx"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "exit",
+    "translation": "chiqish joyi",
+    "options": [
+      "chiqish joyi",
+      "kirish joyi",
+      "deraza",
+      "tom"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "fable",
+    "translation": "masal, masal-masal",
+    "options": [
+      "masal",
+      "xabar",
+      "qoida",
+      "maqola"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "forest",
+    "translation": "o'rmonlik",
+    "options": [
+      "o'rmonlik",
+      "cho'l",
+      "shahar",
+      "bino"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "giant",
+    "translation": "ulkan, gigant",
+    "options": [
+      "ulkan",
+      "mitti",
+      "kichik",
+      "oddiy"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "host",
+    "translation": "mezbon",
+    "options": [
+      "mezbon",
+      "mehmon",
+      "qo'shni",
+      "dushman"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "identical",
+    "translation": "bir xil, aynan birdek",
+    "options": [
+      "bir xil",
+      "har xil",
+      "boshqacha",
+      "teskari"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "meantime",
+    "translation": "shu oraliqda, shu vaqtda",
+    "options": [
+      "shu vaqtda",
+      "keyinchalik",
+      "ilgari",
+      "hech qachon"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "miser",
+    "translation": "xasis, ziqna",
+    "options": [
+      "xasis",
+      "saxiy",
+      "boy",
+      "mehribon"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "pant",
+    "translation": "hansramoq",
+    "options": [
+      "hansramoq",
+      "pichirlamoq",
+      "uxlamoq",
+      "kuylamoq"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "severe",
+    "translation": "og'ir, shiddatli",
+    "options": [
+      "og'ir",
+      "yengil",
+      "yumshoq",
+      "yoqimli"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "strobe",
+    "translation": "miltillovchi chiroq",
+    "options": [
+      "miltillovchi chiroq",
+      "quyosh",
+      "soya",
+      "qorong'ulik"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "texture",
+    "translation": "faktura, tuzilish",
+    "options": [
+      "tuzilish",
+      "rang",
+      "hid",
+      "massa"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "treasure",
+    "translation": "xazina buyumi",
+    "options": [
+      "xazina",
+      "chiqindi",
+      "tosh",
+      "suv"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "unexpected",
+    "translation": "kutilmagan",
+    "options": [
+      "kutilmagan",
+      "rejalashtirilgan",
+      "odatiy",
+      "tanish"
+    ]
+  },
+  {
+    "unit": 18,
+    "word": "urgent",
+    "translation": "shoshilinch, zudlik bilan",
+    "options": [
+      "shoshilinch",
+      "sekin",
+      "muhim emas",
+      "vaqti bor"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "allow",
+    "translation": "ruxsat bermoq",
+    "options": [
+      "ruxsat bermoq",
+      "taqiqlamoq",
+      "jazolamoq",
+      "to'xtatmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "announce",
+    "translation": "e'lon qilmoq",
+    "options": [
+      "e'lon qilmoq",
+      "yashirmoq",
+      "pichirlamoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "beside",
+    "translation": "yonida, qoshida",
+    "options": [
+      "yonida",
+      "uzoqda",
+      "ostida",
+      "ustida"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "challenge",
+    "translation": "qiyin vazifa, chorlov",
+    "options": [
+      "qiyin vazifa",
+      "oson ish",
+      "yutuq",
+      "dam olish"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "claim",
+    "translation": "da'vo qilmoq",
+    "options": [
+      "da'vo qilmoq",
+      "inkor etmoq",
+      "rozi bo'lmoq",
+      "vaz kechmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "condition",
+    "translation": "holat, shart",
+    "options": [
+      "holat",
+      "natija",
+      "xato",
+      "boshlanish"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "contribute",
+    "translation": "hissa qo'shmoq",
+    "options": [
+      "hissa qo'shmoq",
+      "xalaqit bermoq",
+      "olmoq",
+      "buzmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "difference",
+    "translation": "farq",
+    "options": [
+      "farq",
+      "o'xshashlik",
+      "birlik",
+      "tenglik"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "divide",
+    "translation": "bo'lmoq, taqsimlamoq",
+    "options": [
+      "bo'lmoq",
+      "birlashtirmoq",
+      "qo'shmoq",
+      "yig'moq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "expert",
+    "translation": "mutaxassis, ekspert",
+    "options": [
+      "mutaxassis",
+      "yangi o'rganuvchi",
+      "o'quvchi",
+      "shogird"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "famous",
+    "translation": "mashhur",
+    "options": [
+      "mashhur",
+      "noma'lum",
+      "yashirin",
+      "oddiy"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "force",
+    "translation": "kuch, majburlamoq",
+    "options": [
+      "kuch",
+      "zaiflik",
+      "iltimos",
+      "yordam"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "harm",
+    "translation": "zarar, ziyon",
+    "options": [
+      "zarar",
+      "foyda",
+      "yordam",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "lay",
+    "translation": "qo'ymoq, yotqizmoq",
+    "options": [
+      "qo'ymoq",
+      "ko'tarmoq",
+      "otmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "peace",
+    "translation": "tinchlik, osoyishtalik",
+    "options": [
+      "tinchlik",
+      "urush",
+      "shovqin",
+      "g'alayon"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "prince",
+    "translation": "shahzoda",
+    "options": [
+      "shahzoda",
+      "qirol",
+      "xizmatkor",
+      "dehqon"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "protect",
+    "translation": "himoya qilmoq",
+    "options": [
+      "himoya qilmoq",
+      "hujum qilmoq",
+      "sindirmoq",
+      "tashlab ketmoq"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "sense",
+    "translation": "mantiq, tuyg'u",
+    "options": [
+      "mantiq",
+      "xato",
+      "bemantiqlik",
+      "qo'rquv"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "sudden",
+    "translation": "to'satdan, kutilmaganda",
+    "options": [
+      "to'satdan",
+      "sekin-asta",
+      "rejalashtirilgan",
+      "odatiy"
+    ]
+  },
+  {
+    "unit": 19,
+    "word": "therefore",
+    "translation": "shuning uchun",
+    "options": [
+      "shuning uchun",
+      "chunki",
+      "biroq",
+      "agar"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "accept",
+    "translation": "qabul qilmoq",
+    "options": [
+      "qabul qilmoq",
+      "rad etmoq",
+      "tashlamoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "arrange",
+    "translation": "tartibga solmoq, rejalashtirmoq",
+    "options": [
+      "tartibga solmoq",
+      "buzmoq",
+      "sochib yubormoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "attend",
+    "translation": "qatnashmoq, bormoq",
+    "options": [
+      "qatnashmoq",
+      "qolib ketmoq",
+      "rad etmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "balance",
+    "translation": "muvozanatni saqlamoq",
+    "options": [
+      "muvozanat",
+      "yiqilish",
+      "tebranish",
+      "xato"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "contrast",
+    "translation": "qarama-qarshilik, kontrast",
+    "options": [
+      "kontrast",
+      "o'xshashlik",
+      "birlik",
+      "moslik"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "encourage",
+    "translation": "ruhlantirmoq, ilhomlantirmoq",
+    "options": [
+      "ruhlantirmoq",
+      "xafa qilmoq",
+      "to'xtatmoq",
+      "qo'rqitmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "familiar",
+    "translation": "tanish, qadrdon",
+    "options": [
+      "tanish",
+      "noma'lum",
+      "begona",
+      "g'alati"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "grab",
+    "translation": "ushlab olmoq, olmoq",
+    "options": [
+      "ushlab olmoq",
+      "tashlab yubormoq",
+      "itarmog",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "hang",
+    "translation": "ilmoq, osib qo'ymoq",
+    "options": [
+      "ilmoq",
+      "tushirmoq",
+      "otmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "huge",
+    "translation": "juda katta, ulkan",
+    "options": [
+      "ulkan",
+      "mitti",
+      "kichik",
+      "tor"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "necessary",
+    "translation": "zarur, kerakli",
+    "options": [
+      "zarur",
+      "keraksiz",
+      "ortiqcha",
+      "mayda"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "pattern",
+    "translation": "andoza, naqsh",
+    "options": [
+      "naqsh",
+      "xato",
+      "tartibsizlik",
+      "rasm"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "propose",
+    "translation": "taklif qilmoq",
+    "options": [
+      "taklif qilmoq",
+      "rad etmoq",
+      "buyurmoq",
+      "taqiqlamoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "purpose",
+    "translation": "maqsad",
+    "options": [
+      "maqsad",
+      "tasodif",
+      "xato",
+      "oqibat"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "release",
+    "translation": "ozod qilmoq, qo'yib yubormoq",
+    "options": [
+      "ozod qilmoq",
+      "ushlab turmoq",
+      "qamamoq",
+      "jazolamoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "require",
+    "translation": "talab qilmoq",
+    "options": [
+      "talab qilmoq",
+      "taklif qilmoq",
+      "suyamoq",
+      "bermoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "satisfied",
+    "translation": "mamnun, qoniqqan",
+    "options": [
+      "qoniqqan",
+      "norazi",
+      "xafa",
+      "g'azablangan"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "single",
+    "translation": "bitta, yagona",
+    "options": [
+      "bitta",
+      "ko'p",
+      "juft",
+      "barcha"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "tear",
+    "translation": "yirtmoq, ko'z yoshi",
+    "options": [
+      "yirtmoq",
+      "tuzatmoq",
+      "tikmoq",
+      "yopishtirmoq"
+    ]
+  },
+  {
+    "unit": 20,
+    "word": "theory",
+    "translation": "nazariya",
+    "options": [
+      "nazariya",
+      "amaliyot",
+      "fakt",
+      "voqea"
+    ]
+  },
+  
+  {
+    "unit": 21,
+    "word": "against",
+    "translation": "qarshi",
+    "options": [
+      "qarshi",
+      "munosib",
+      "tomon",
+      "birga"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "beach",
+    "translation": "plyaj, sohil",
+    "options": [
+      "plyaj",
+      "o'rmon",
+      "shahar",
+      "bino"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "damage",
+    "translation": "zarar yetkazmoq",
+    "options": [
+      "zarar yetkazmoq",
+      "tuzatmoq",
+      "qurmoq",
+      "saqlamoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "discover",
+    "translation": "kashf etmoq",
+    "options": [
+      "kashf etmoq",
+      "yashirmoq",
+      "yo'qotmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "emotion",
+    "translation": "hissiyot, emotsiya",
+    "options": [
+      "hissiyot",
+      "mantiq",
+      "fikr",
+      "bilim"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "fix",
+    "translation": "tuzatmoq, ta'mirlamoq",
+    "options": [
+      "tuzatmoq",
+      "sindirmoq",
+      "tashlab yubormoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "frank",
+    "translation": "ochiq ko'ngil, samimiy",
+    "options": [
+      "samimiy",
+      "makkor",
+      "qo'pol",
+      "yolg'onchi"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "identify",
+    "translation": "aniqlamoq, tanimoq",
+    "options": [
+      "aniqlamoq",
+      "adashmoq",
+      "yashirmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "island",
+    "translation": "orol",
+    "options": [
+      "orol",
+      "ko'l",
+      "daryo",
+      "tashqi shahar"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "ocean",
+    "translation": "okean",
+    "options": [
+      "okean",
+      "ko'l",
+      "ariq",
+      "hovuz"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "perhaps",
+    "translation": "balki, ehtimol",
+    "options": [
+      "balki",
+      "albatta",
+      "aniq",
+      "hech qachon"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "pleasant",
+    "translation": "yoqimli",
+    "options": [
+      "yoqimli",
+      "yoqimsiz",
+      "g'azabli",
+      "qiyin"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "prevent",
+    "translation": "oldini olmoq",
+    "options": [
+      "oldini olmoq",
+      "yordam bermoq",
+      "ruxsat bermoq",
+      "boshlamoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "rock",
+    "translation": "tosh, qoya",
+    "options": [
+      "tosh",
+      "daraxt",
+      "qum",
+      "maysa"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "save",
+    "translation": "qutqarmoq, saqlamoq",
+    "options": [
+      "qutqarmoq",
+      "yo'qotmoq",
+      "xavfga qo'ymoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "step",
+    "translation": "qadam tashlamoq",
+    "options": [
+      "qadam tashlamoq",
+      "yotmoq",
+      "o'tirmoq",
+      "to'xtamoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "still",
+    "translation": "hali ham",
+    "options": [
+      "hali ham",
+      "allaqachon",
+      "hech qachon",
+      "ba'zan"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "taste",
+    "translation": "massa, ta'm bilmoq",
+    "options": [
+      "ta'm bilmoq",
+      "eshitmoq",
+      "ko'rmoq",
+      "ushlab ko'rmoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "throw",
+    "translation": "otmoq, uloqtirmoq",
+    "options": [
+      "otmoq",
+      "ushlab olmoq",
+      "yig'moq",
+      "saqlamoq"
+    ]
+  },
+  {
+    "unit": 21,
+    "word": "wave",
+    "translation": "to'lqin",
+    "options": [
+      "to'lqin",
+      "shamol",
+      "yomg'ir",
+      "qor"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "benefit",
+    "translation": "foyda, naf",
+    "options": [
+      "foyda",
+      "zarar",
+      "xarajat",
+      "xato"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "certain",
+    "translation": "aniq, ishonchi komil",
+    "options": [
+      "aniq",
+      "shubhali",
+      "noma'lum",
+      "yashirin"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "chance",
+    "translation": "imkoniyat, imkon",
+    "options": [
+      "imkoniyat",
+      "to'siq",
+      "muammo",
+      "xato"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "effect",
+    "translation": "ta'sir, natija",
+    "options": [
+      "natija",
+      "sabab",
+      "xato",
+      "maqsad"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "essential",
+    "translation": "juda muhim, zarur",
+    "options": [
+      "juda muhim",
+      "keraksiz",
+      "mayda",
+      "odatiy"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "far",
+    "translation": "uzoq, ols",
+    "options": [
+      "uzoq",
+      "yaqin",
+      "qo'shni",
+      "tor"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "focus",
+    "translation": "diqqatni qaratmoq",
+    "options": [
+      "diqqatni qaratmoq",
+      "chalg'imoq",
+      "unutmoq",
+      "e'tiborsiz qoldirmoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "function",
+    "translation": "vazifa, funktsiya",
+    "options": [
+      "vazifa",
+      "xato",
+      "ko'rinish",
+      "ism"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "grass",
+    "translation": "o't, maysa",
+    "options": [
+      "maysa",
+      "daraxt",
+      "tosh",
+      "gul"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "guard",
+    "translation": "qriqlamoq, qo'riqchi",
+    "options": [
+      "qo'riqlamoq",
+      "hujum qilmoq",
+      "qochmoq",
+      "yo'qotmoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "image",
+    "translation": "tasvir, rasm",
+    "options": [
+      "tasvir",
+      "ovoz",
+      "matn",
+      "musiqa"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "immediate",
+    "translation": "darg'azab, tezkor",
+    "options": [
+      "tezkor",
+      "sekin",
+      "kechikkan",
+      "so'nggi"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "primary",
+    "translation": "birinchi guruh, asosiy",
+    "options": [
+      "asosiy",
+      "ikkinchi darajali",
+      "oxirgi",
+      "kuchsiz"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "proud",
+    "translation": "faxrlanadigan, mag'rur",
+    "options": [
+      "mag'rur",
+      "xijolat",
+      "kamtarin",
+      "qo'rqoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "remain",
+    "translation": "qolmoq (o'z holicha)",
+    "options": [
+      "qolmoq",
+      "ketmoq",
+      "o'zgarmoq",
+      "yo'qolmoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "rest",
+    "translation": "dam olmoq",
+    "options": [
+      "dam olmoq",
+      "ishlamoq",
+      "yugurmoq",
+      "sayohat qilmoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "separate",
+    "translation": "ajratmoq",
+    "options": [
+      "ajratmoq",
+      "birlashtirmoq",
+      "qo'shmoq",
+      "yig'moq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "site",
+    "translation": "joy, maydon",
+    "options": [
+      "joy",
+      "vaqt",
+      "xat",
+      "sabab"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "tail",
+    "translation": "dum",
+    "options": [
+      "dum",
+      "bosh",
+      "quloq",
+      "oyoq"
+    ]
+  },
+  {
+    "unit": 22,
+    "word": "trouble",
+    "translation": "muammo, tashvish",
+    "options": [
+      "muammo",
+      "quvonch",
+      "tinchlik",
+      "omad"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "aware",
+    "translation": "xabardor",
+    "options": [
+      "xabardor",
+      "behaber",
+      "g'ofil",
+      "uylayotgan"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "badly",
+    "translation": "yomon, juda qattiq",
+    "options": [
+      "yomon",
+      "yaxshi",
+      "chiroyli",
+      "tinch"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "belong",
+    "translation": "tegishli bo'lmoq",
+    "options": [
+      "tegishli bo me",
+      "begona bo'lmoq",
+      "yo'qotmoq",
+      "sotib olmoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "continue",
+    "translation": "davom ettirmoq",
+    "options": [
+      "davom ettirmoq",
+      "to'xtatmoq",
+      "tugatmoq",
+      "boshlamoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "error",
+    "translation": "xato, adashish",
+    "options": [
+      "xato",
+      "to'g'ri javob",
+      "g'alaba",
+      "mantiq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "experience",
+    "translation": "tajriba, kechinma",
+    "options": [
+      "tajriba",
+      "xayol",
+      "reja",
+      "orzu"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "field",
+    "translation": "dala, maydon",
+    "options": [
+      "dala",
+      "xona",
+      "shahar",
+      "bino"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "hurt",
+    "translation": "jarohatlamoq, og'ritmoq",
+    "options": [
+      "og'ritmoq",
+      "davolamoq",
+      "xursand qilmoq",
+      "yordam bermoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "judgment",
+    "translation": "hukm, qaror",
+    "options": [
+      "qaror",
+      "xato",
+      "savol",
+      "shubha"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "likely",
+    "translation": "ehtimol, kutilayotgan",
+    "options": [
+      "ehtimol",
+      "dushvor",
+      "gumon",
+      "hech qachon"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "normal",
+    "translation": "me'yordagi, odatiy",
+    "options": [
+      "odatiy",
+      "g'ayrioddiy",
+      "anormal",
+      "noma'lum"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "rare",
+    "translation": "kamyoq, kam uchrashadigan",
+    "options": [
+      "kamyoq",
+      "ko'p uchrashadigan",
+      "odatiy",
+      "mashhur"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "relax",
+    "translation": "hordiq chiqarmoq",
+    "options": [
+      "hordiq chiqarmoq",
+      "ishlamoq",
+      "shoshilmoq",
+      "xavotir olmoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "request",
+    "translation": "so'ramoq, iltimos qilmoq",
+    "options": [
+      "iltimos qilmoq",
+      "buyurmoq",
+      "taqiqlamoq",
+      "rad etmoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "reside",
+    "translation": "yashamoq, istiqomat qilmoq",
+    "options": [
+      "yashamoq",
+      "sayohat qilmoq",
+      "ko'chib ketmoq",
+      "kechikmoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "result",
+    "translation": "natija",
+    "options": [
+      "natija",
+      "sabab",
+      "boshlanish",
+      "savol"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "roll",
+    "translation": "dumalamoq, g'ildiratmoq",
+    "options": [
+      "dumalamoq",
+      "to'xtamoq",
+      "ko'tarmoq",
+      "ushlab turmoq"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "since",
+    "translation": "chunki, -dan beri",
+    "options": [
+      "-dan beri",
+      "keyin",
+      "ilgari",
+      "garchi"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "visible",
+    "translation": "ko'rinib turgan",
+    "options": [
+      "ko'rinib turgan",
+      "yashirin",
+      "noma'lum",
+      "ko'rinmas"
+    ]
+  },
+  {
+    "unit": 23,
+    "word": "wild",
+    "translation": "yovvoyi",
+    "options": [
+      "yovvoyi",
+      "xonaki",
+      "tinch",
+      "yuvosh"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "advantage",
+    "translation": "afzallik, ustunlik",
+    "options": [
+      "afzallik",
+      "kamchilik",
+      "zarar",
+      "xato"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "cause",
+    "translation": "sabab bo'lmoq",
+    "options": [
+      "sabab bo'lmoq",
+      "to'xtatmoq",
+      "yo'qotmoq",
+      "to'lamoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "choice",
+    "translation": "tanlov",
+    "options": [
+      "tanlov",
+      "majburiyat",
+      "xato",
+      "taqdir"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "community",
+    "translation": "jamiyat, jamoat",
+    "options": [
+      "jamoat",
+      "yolg'izlik",
+      "shaxs",
+      "oilaviy"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "distance",
+    "translation": "masofa",
+    "options": [
+      "masofa",
+      "vaqt",
+      "og'irlik",
+      "narx"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "escape",
+    "translation": "qochib qutulmoq",
+    "options": [
+      "qochmoq",
+      "tutib olmoq",
+      "taslim bo'lmoq",
+      "kutmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "face",
+    "translation": "duch kelmoq, yuzlanmoq",
+    "options": [
+      "duch kelmoq",
+      "qochmoq",
+      "yashirinmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "follow",
+    "translation": "ergashmoq, ortidan bormoq",
+    "options": [
+      "ergashmoq",
+      "qochmoq",
+      "yo'qotmoq",
+      "to'xtatmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "fright",
+    "translation": "qo'rquv, cho'chish",
+    "options": [
+      "qo'rquv",
+      "jasorat",
+      "quvonch",
+      "xotirjamlik"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "ghost",
+    "translation": "arvoh, shpion",
+    "options": [
+      "arvoh",
+      "odam",
+      "hayvon",
+      "qush"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "individual",
+    "translation": "alohida shaxs, individ",
+    "options": [
+      "alohida shaxs",
+      "jamoa",
+      "guruhiy",
+      "ko'pchilik"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "pet",
+    "translation": "xonaki hayvon",
+    "options": [
+      "xonaki hayvon",
+      "yovvoyi hayvon",
+      "qush",
+      "baliq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "reach",
+    "translation": "yetib bormoq",
+    "options": [
+      "yetib bormoq",
+      "qolib ketmoq",
+      "ortga qaytmoq",
+      "yo'qolmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "return",
+    "translation": "qaytmoq",
+    "options": [
+      "qaytmoq",
+      "ketmoq",
+      "to'xtamoq",
+      "shoshilmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "survive",
+    "translation": "tirik qolmoq",
+    "options": [
+      "tirik qolmoq",
+      "o'lmoq",
+      "yutqazmoq",
+      "taslim bo'lmoq"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "upset",
+    "translation": "xafa, xunob",
+    "options": [
+      "xafa",
+      "xursand",
+      "tinch",
+      "xotirjam"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "voice",
+    "translation": "ovoz",
+    "options": [
+      "ovoz",
+      "sukunat",
+      "ko'rinish",
+      "rasm"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "weather",
+    "translation": "ob-havo",
+    "options": [
+      "ob-havo",
+      "iqlim",
+      "harorat",
+      "mavsum"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "wise",
+    "translation": "donishmand, aqlli",
+    "options": [
+      "aqlli",
+      "ahmoq",
+      "soddadil",
+      "yosh"
+    ]
+  },
+  {
+    "unit": 24,
+    "word": "allowance",
+    "translation": "cho'ntak puli, nafaqa",
+    "options": [
+      "nafaqa",
+      "jarima",
+      "soliq",
+      "qarz"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "announce",
+    "translation": "xabar qilmoq",
+    "options": [
+      "xabar qilmoq",
+      "yashirmoq",
+      "unutmoq",
+      "inkor etmoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "beside",
+    "translation": "yon-atrofida",
+    "options": [
+      "yonida",
+      "uzoqda",
+      "ostida",
+      "tepasida"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "challenge",
+    "translation": "muammo, qiyinchilik",
+    "options": [
+      "qiyinchilik",
+      "osonlik",
+      "yutuq",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "claim",
+    "translation": "tasdiqlamoq, da'vo qilmoq",
+    "options": [
+      "da'vo qilmoq",
+      "inkor etmoq",
+      "pichirlamoq",
+      "kechirim so'ramoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "condition",
+    "translation": "sharoit, vaziyat",
+    "options": [
+      "vaziyat",
+      "xato",
+      "natija",
+      "maqsad"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "contribute",
+    "translation": "ulush qo'shmoq",
+    "options": [
+      "ulush qo'shmoq",
+      "xalaqit bermoq",
+      "olmoq",
+      "buzmoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "difference",
+    "translation": "farqlanish",
+    "options": [
+      "farqlanish",
+      "o'xshashlik",
+      "birlik",
+      "tenglik"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "divide",
+    "translation": "bo'lib bermoq",
+    "options": [
+      "bo'lib bermoq",
+      "yig'moq",
+      "birlashtirmoq",
+      "saqlamoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "expert",
+    "translation": "tajribali kishi",
+    "options": [
+      "tajribali kishi",
+      "shogird",
+      "o'quvchi",
+      "havaskor"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "famous",
+    "translation": "taniqli",
+    "options": [
+      "taniqli",
+      "noma'lum",
+      "yashirin",
+      "oddiy"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "force",
+    "translation": "majbur qilmoq",
+    "options": [
+      "majbur qilmoq",
+      "iltimos qilmoq",
+      "ruxsat bermoq",
+      "yordam bermoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "harm",
+    "translation": "ziyon, shikast",
+    "options": [
+      "ziyon",
+      "foyda",
+      "yordam",
+      "mukofot"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "lay",
+    "translation": "qo'yib qo'ymoq",
+    "options": [
+      "qo'yib qo'ymoq",
+      "ko'tarmoq",
+      "otmoq",
+      "olmoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "peace",
+    "translation": "osoyishtalik",
+    "options": [
+      "osoyishtalik",
+      "urush",
+      "shovqin",
+      "xavf"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "prince",
+    "translation": "shoh o'g'li",
+    "options": [
+      "shoh o'g'li",
+      "qirol",
+      "xizmatkor",
+      "askor"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "protect",
+    "translation": "himoyalamoq",
+    "options": [
+      "himoyalamoq",
+      "hujum qilmoq",
+      "sindirmoq",
+      "tashlamoq"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "sense",
+    "translation": "his etmoq, tuyg'u",
+    "options": [
+      "tuyg'u",
+      "xato",
+      "sukunat",
+      "harakat"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "sudden",
+    "translation": "kutilmagan, tezzatdan",
+    "options": [
+      "kutilmagan",
+      "sekin-asta",
+      "rejalashtirilgan",
+      "odatiy"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "therefore",
+    "translation": "shu sababli",
+    "options": [
+      "shu sababli",
+      "chunki",
+      "biroq",
+      "agar"
+    ]
+  },
+  {
+    "unit": 25,
+    "word": "essential",
+    "translation": "muhim, hayotiy",
+    "options": [
+      "hayotiy",
+      "keraksiz",
+      "mayda",
+      "ortiqcha"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "arrive",
+    "translation": "yetib kelmoq",
+    "options": [
+      "yetib kelmoq",
+      "ketmoq",
+      "kechikmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "beak",
+    "translation": "qush tumshug'i",
+    "options": [
+      "tumshuq",
+      "qanot",
+      "pat",
+      "dum"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "damp",
+    "translation": "nam, xunuk",
+    "options": [
+      "nam",
+      "quruq",
+      "issiq",
+      "sovuq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "disprove",
+    "translation": "inkor etmoq, raddiya bermoq",
+    "options": [
+      "inkor etmoq",
+      "isbotlamoq",
+      "tasdiqlamoq",
+      "qo'llamoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "enthusiasm",
+    "translation": "ishtiyoq, g'ayrat",
+    "options": [
+      "ishtiyoq",
+      "zerikish",
+      "xafalik",
+      "qo'rquv"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "extinct",
+    "translation": "yo'q bo'lib ketgan",
+    "options": [
+      "yo'q bo'lib ketgan",
+      "mavjud",
+      "tirik",
+      "yangi"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "humid",
+    "translation": "namchil, dim",
+    "options": [
+      "namchil",
+      "quruq",
+      "musaffo",
+      "sovuq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "hunt",
+    "translation": "ovlamoq",
+    "options": [
+      "ovlamoq",
+      "boqmoq",
+      "himoya qilmoq",
+      "bo'shatmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "illustrate",
+    "translation": "tasvirlamoq, tushuntirmoq",
+    "options": [
+      "tasvirlamoq",
+      "yashirmoq",
+      "chashkalashtirmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "insist",
+    "translation": "turib olmoq, talab qilmoq",
+    "options": [
+      "turib olmoq",
+      "taslim bo'lmoq",
+      "rozi bo'lmoq",
+      "unushmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "inadequacy",
+    "translation": "yetarsizlik, kamchilik",
+    "options": [
+      "yetarsizlik",
+      "mo'l-ko'llik",
+      "boylik",
+      "mukammallik"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "moral",
+    "translation": "axloqiy, xulosa",
+    "options": [
+      "axloqiy",
+      "yomon",
+      "moddiy",
+      "jismoniy"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "panic",
+    "translation": "vahima",
+    "options": [
+      "vahima",
+      "xotirjamlik",
+      "tinchlik",
+      "quvonch"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "proclaim",
+    "translation": "jar solmoq, e'lon qilmoq",
+    "options": [
+      "jar solmoq",
+      "yashirmoq",
+      "pichirlamoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "refuse",
+    "translation": "rad etmoq",
+    "options": [
+      "rad etmoq",
+      "qabul qilmoq",
+      "rozi bo'lmoq",
+      "taklif qilmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "survive",
+    "translation": "yashab qolmoq",
+    "options": [
+      "yashab qolmoq",
+      "halok bo'lmoq",
+      "mag'lub bo'lmoq",
+      "yo'qolmoq"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "sympathy",
+    "translation": "hamdardlik",
+    "options": [
+      "hamdardlik",
+      "beharakatlik",
+      "nafrat",
+      "hasad"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "track",
+    "translation": "iz, yo'lak",
+    "options": [
+      "iz",
+      "bino",
+      "xona",
+      "shahar"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "trophy",
+    "translation": "kubok, sovrin",
+    "options": [
+      "sovrin",
+      "jarima",
+      "soliq",
+      "xarajat"
+    ]
+  },
+  {
+    "unit": 26,
+    "word": "wildly",
+    "translation": "shiddat bilan, telbanalarcha",
+    "options": [
+      "shiddat bilan",
+      "sekin",
+      "tinchgina",
+      "ehtiyotkorlik bilan"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "accent",
+    "translation": "urg'u, talaffuz",
+    "options": [
+      "talaffuz",
+      "yozuv",
+      "ovoz balandligi",
+      "musiqa"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "barber",
+    "translation": "sartosh, sartarosh",
+    "options": [
+      "sartarosh",
+      "oshpaz",
+      "haydovchi",
+      "shifokor"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "blind",
+    "translation": "ko'zi ojiz, ko'r",
+    "options": [
+      "ko'zi ojiz",
+      "soqov",
+      "garang",
+      "aqlli"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "beard",
+    "translation": "soqol",
+    "options": [
+      "soqol",
+      "murt",
+      "soch",
+      "qosh"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "colonel",
+    "translation": "polkovnik",
+    "options": [
+      "polkovnik",
+      "askor",
+      "kapitan",
+      "serjant"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "costume",
+    "translation": "kostyum, libos",
+    "options": [
+      "libos",
+      "poyabzal",
+      "shapka",
+      "soat"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "discourse",
+    "translation": "suhbat, ma'ruza",
+    "options": [
+      "suhbat",
+      "sukunat",
+      "urush",
+      "mashq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "deafen",
+    "translation": "quloqni qang'itmoq",
+    "options": [
+      "quloqni qang'itmoq",
+      "pichirlamoq",
+      "kuylamoq",
+      "eshitmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "disobey",
+    "translation": "quloq solmaslik",
+    "options": [
+      "quloq solmaslik",
+      "bo'ysunmoq",
+      "yordam bermoq",
+      "rozi bo'lmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "forehead",
+    "translation": "peshana",
+    "options": [
+      "peshana",
+      "yuz",
+      "ko'z",
+      "burun"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "gasp",
+    "translation": "nafas qisqarmoq, hansramoq",
+    "options": [
+      "hansramoq",
+      "pichirlamoq",
+      "kuylamoq",
+      "kulmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "hermit",
+    "translation": "tarkidunyochi, zohid",
+    "options": [
+      "zohid",
+      "sayohatshunos",
+      "savdogar",
+      "podsho"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "justify",
+    "translation": "oqlamoq, sabab ko'rsatmoq",
+    "options": [
+      "oqlamoq",
+      "ayblamoq",
+      "jazolamoq",
+      "yashirmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "pant",
+    "translation": "og'ir nafas olmoq",
+    "options": [
+      "og'ir nafas olmoq",
+      "uxlamoq",
+      "gapirmoq",
+      "yutmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "plead",
+    "translation": "yolvormoq, o'tinmoq",
+    "options": [
+      "yolvormoq",
+      "buyurmoq",
+      "urishmoq",
+      "taqiqlamoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "rush",
+    "translation": "shoshilmoq, hovliqmoq",
+    "options": [
+      "shoshilmoq",
+      "sekinlashmoq",
+      "to'xtamoq",
+      "kutmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "string",
+    "translation": "ip, arqoncha",
+    "options": [
+      "ip",
+      "tosh",
+      "yog'och",
+      "temir"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "strive",
+    "translation": "harakat qilmoq, intilmoq",
+    "options": [
+      "intilmoq",
+      "taslim bo'lmoq",
+      "to'xtamoq",
+      "chekinmoq"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "suburb",
+    "translation": "shahar atrofi",
+    "options": [
+      "shahar atrofi",
+      "shahar markazi",
+      "qishloq",
+      "dengiz"
+    ]
+  },
+  {
+    "unit": 27,
+    "word": "towards",
+    "translation": "tomon, sarfga",
+    "options": [
+      "tomon",
+      "orqasiga",
+      "qarshi",
+      "ichida"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "anxious",
+    "translation": "xavotirlangan, bezovta",
+    "options": [
+      "xavotirlangan",
+      "xotirjam",
+      "xursand",
+      "uyquchi"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "awful",
+    "translation": "juda yomon, daxshatli",
+    "options": [
+      "daxshatli",
+      "ajoyib",
+      "chiroyli",
+      "yoqimli"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "consist",
+    "translation": "iborat bo'lmoq",
+    "options": [
+      "iborat bo'lmoq",
+      "bo'linmoq",
+      "buzilmoq",
+      "yo'qolmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "desire",
+    "translation": "xohlamoq, istamoq",
+    "options": [
+      "istamoq",
+      "rad etmoq",
+      "nafratlanmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "eager",
+    "translation": "intizor, chanqoq",
+    "options": [
+      "intizor",
+      "behafsala",
+      "zerikkan",
+      "xafa"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "household",
+    "translation": "ro'zg'or, xonadon",
+    "options": [
+      "xonadon",
+      "shahar",
+      "idora",
+      "ko'cha"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "intent",
+    "translation": "niyat qilgan, qat'iy",
+    "options": [
+      "qat'iy",
+      "ikkilangan",
+      "xafa",
+      "befarq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "landscape",
+    "translation": "manzara, peyzaj",
+    "options": [
+      "manzara",
+      "ovoz",
+      "xona",
+      "bino"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "lift",
+    "translation": "ko'tarmoq",
+    "options": [
+      "ko'tarmoq",
+      "tushirmoq",
+      "otmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "load",
+    "translation": "yuklamoq, yuk",
+    "options": [
+      "yuklamoq",
+      "bo'shatmoq",
+      "sotmoq",
+      "yashirmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "lung",
+    "translation": "o'pka",
+    "options": [
+      "o'pka",
+      "yurak",
+      "jigar",
+      "buyrak"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "motion",
+    "translation": "harakat",
+    "options": [
+      "harakat",
+      "sukunat",
+      "uyqu",
+      "tinchlik"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "pace",
+    "translation": "sur'at, temp",
+    "options": [
+      "sur'at",
+      "yo'nalish",
+      "masofa",
+      "maqsad"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "polite",
+    "translation": "xushmuomala, odobli",
+    "options": [
+      "odobli",
+      "qo'pol",
+      "beqaror",
+      "g'azabli"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "possess",
+    "translation": "egalik qilmoq",
+    "options": [
+      "egalik qilmoq",
+      "yo'qotmoq",
+      "qarzga olmoq",
+      "sotmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "rapidly",
+    "translation": "tezda, shiddat bilan",
+    "options": [
+      "tezda",
+      "sekin-asta",
+      "og'ir-bosiq",
+      "kechikib"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "remark",
+    "translation": "mulohaza bildirmoq",
+    "options": [
+      "mulohaza bildirmoq",
+      "jim turmoq",
+      "eshitmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "seek",
+    "translation": "qidirmoq, izlamoq",
+    "options": [
+      "qidirmoq",
+      "yo'qotmoq",
+      "yashirmoq",
+      "tashlamoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "shine",
+    "translation": "porlamoq, nur sochmoq",
+    "options": [
+      "porlamoq",
+      "o'chmoq",
+      "qorong'ulashmoq",
+      "yashirinmoq"
+    ]
+  },
+  {
+    "unit": 28,
+    "word": "spill",
+    "translation": "to'kib yubormoq",
+    "options": [
+      "to'kib yubormoq",
+      "yig'moq",
+      "tozalamoq",
+      "ichmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "arrow",
+    "translation": "o'q, kamon o'qi",
+    "options": [
+      "o'q",
+      "qilich",
+      "qalqon",
+      "miltiq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "battle",
+    "translation": "jang, jangnoma",
+    "options": [
+      "jang",
+      "tinchlik",
+      "suhbat",
+      "o'yin"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "bow",
+    "translation": "kamon",
+    "options": [
+      "kamon",
+      "pichoq",
+      "nayza",
+      "bolta"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "brave",
+    "translation": "dovyurak, jasur",
+    "options": [
+      "jasur",
+      "qo'rqoq",
+      "zaif",
+      "xafa"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "chief",
+    "translation": "boshliq, sador",
+    "options": [
+      "boshliq",
+      "xizmatkor",
+      "ishchi",
+      "askor"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "disadvantage",
+    "translation": "kamchilik, noqulaylik",
+    "options": [
+      "kamchilik",
+      "ustunlik",
+      "foyda",
+      "yutuq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "enemy",
+    "translation": "dushman",
+    "options": [
+      "dushman",
+      "do'st",
+      "qo'shni",
+      "qarindosh"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "entrance",
+    "translation": "kirish joyi",
+    "options": [
+      "kirish joyi",
+      "chiqish joyi",
+      "tom",
+      "deraza"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "hardly",
+    "translation": "areang-arang, ziddiyatli",
+    "options": [
+      "areang-arang",
+      "osongina",
+      "har doim",
+      "albatta"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "intend",
+    "translation": "niyat qilmoq",
+    "options": [
+      "niyat qilmoq",
+      "unutmoq",
+      "rad etmoq",
+      "tasodifan qilmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "laughter",
+    "translation": "kulgu, shodlik",
+    "options": [
+      "kulgu",
+      "yig'i",
+      "xafalik",
+      "g'azab"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "log",
+    "translation": "kunda, yog'och",
+    "options": [
+      "kunda",
+      "tosh",
+      "barg",
+      "maysa"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "military",
+    "translation": "harbiy",
+    "options": [
+      "harbiy",
+      "fuqaroviy",
+      "tinchlik",
+      "shaxsiy"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "obey",
+    "translation": "bo'ysunmoq, quloq solmoq",
+    "options": [
+      "bo'ysunmoq",
+      "quloq solmaslik",
+      "urishmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "secure",
+    "translation": "xavfsizlantirmoq, ta'minlamoq",
+    "options": [
+      "xavfsizlantirmoq",
+      "xavfga qo'ymoq",
+      "yo'qotmoq",
+      "sindirmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "steady",
+    "translation": "barqaror, mo''tadil",
+    "options": [
+      "barqaror",
+      "beqaror",
+      "tebranuvchan",
+      "kuchsiz"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "trust",
+    "translation": "ishonmoq",
+    "options": [
+      "ishonmoq",
+      "shubhalanmoq",
+      "inkor etmoq",
+      "qochmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "twist",
+    "translation": "buralmoq, buramoq",
+    "options": [
+      "buramoq",
+      "tekislamoq",
+      "sindirmoq",
+      "to'xtatmoq"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "unless",
+    "translation": "agar ... bo'lmasa",
+    "options": [
+      "agar ... bo'lmasa",
+      "chunki",
+      "shuning uchun",
+      "agarda"
+    ]
+  },
+  {
+    "unit": 29,
+    "word": "weapon",
+    "translation": "qurol-aslaha",
+    "options": [
+      "qurol",
+      "kiyim",
+      "o'yinchoq",
+      "taom"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "chest",
+    "translation": "ko'krak qafasi, sandiq",
+    "options": [
+      "ko'krak qafasi",
+      "bosh",
+      "oyoq",
+      "qo'l"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "confidence",
+    "translation": "ishonch, o'ziga ishonch",
+    "options": [
+      "ishonch",
+      "shubha",
+      "qo'rquv",
+      "ikkitomonlama"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "consequence",
+    "translation": "oqibat, natija",
+    "options": [
+      "oqibat",
+      "sabab",
+      "boshlanish",
+      "maqsad"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "disaster",
+    "translation": "omadsizlik, kutilmagan kulfat",
+    "options": [
+      "kulfat",
+      "omad",
+      "g'alaba",
+      "sovg'a"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "disturb",
+    "translation": "halovatini buzmoq, xalaqit bermoq",
+    "options": [
+      "xalaqit bermoq",
+      "yordam bermoq",
+      "tinchitmoq",
+      "quvontirmoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "estimate",
+    "translation": "chamalamoq, baholamoq",
+    "options": [
+      "chamalamoq",
+      "aniq o'lchamoq",
+      "adashmoq",
+      "unutmoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "honor",
+    "translation": "sharaf, hurmat qilmoq",
+    "options": [
+      "sharaf",
+      "haqorat",
+      "ayb",
+      "xato"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "impress",
+    "translation": "taassurot qoldirmoq",
+    "options": [
+      "taassurot qoldirmoq",
+      "zeriktirmoq",
+      "xafa qilmoq",
+      "qo'rqitmoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "marathon",
+    "translation": "marafon (uzun poyga)",
+    "options": [
+      "marafon",
+      "qisqa masofa",
+      "sakrash",
+      "suzish"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "narrow",
+    "translation": "tor, ensiz",
+    "options": [
+      "tor",
+      "keng",
+      "katta",
+      "baland"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "pale",
+    "translation": "oqarib ketgan, xira",
+    "options": [
+      "oqarib ketgan",
+      "yorqin",
+      "qizil",
+      "to'q"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "rough",
+    "translation": "g'adir-budur, qo'pol",
+    "options": [
+      "g'adir-budur",
+      "silliq",
+      "yumshoq",
+      "tekis"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "satisfy",
+    "translation": "qoniqtirmoq",
+    "options": [
+      "qoniqtirmoq",
+      "xafa qilmoq",
+      "rad etmoq",
+      "buzmoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "scream",
+    "translation": "baqirmoq, dodlamoq",
+    "options": [
+      "baqirmoq",
+      "pichirlamoq",
+      "jim turmoq",
+      "kuylamoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "sensitive",
+    "translation": "tasirchan, nozik",
+    "options": [
+      "ta'sirchan",
+      "bag'ritosh",
+      "kuchli",
+      "befarq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "shade",
+    "translation": "soya",
+    "options": [
+      "soya",
+      "quyosh",
+      "nur",
+      "chiroq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "supplement",
+    "translation": "qo'shimcha qilmoq",
+    "options": [
+      "qo'shimcha qilmoq",
+      "kamaytirmoq",
+      "olib tashlamoq",
+      "to'xtatmoq"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "terror",
+    "translation": "daxshat, qo'rquv",
+    "options": [
+      "daxshat",
+      "tinchlik",
+      "quvonch",
+      "xotirjamlik"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "threat",
+    "translation": "do'q-po'pisa, xavf",
+    "options": [
+      "xavf",
+      "yordam",
+      "sovg'a",
+      "kafolat"
+    ]
+  },
+  {
+    "unit": 30,
+    "word": "victim",
+    "translation": "qurbon, jabrlanuvchi",
+    "options": [
+      "jabrlanuvchi",
+      "jinoyatchi",
+      "hakam",
+      "guvoh"
+    ]
+  }
+]
+
+
